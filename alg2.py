@@ -26,6 +26,10 @@ def d_euclidiana(xy1, xy2):
     return math.sqrt((xy1[0] - xy2[0]) ** 2 + (xy1[1] - xy2[1]) ** 2)
 
 
+def d_manhattan(xy1, xy2):
+    return abs(xy1[0] - xy2[0]) + abs(xy1[1] - xy2[1])  # |x1 - x2| + |y1 - y2|
+
+
 def scrie_in_fisier(output):
     fisier_output = fisier_input.replace('input', 'output')
     with open(fisier_output, "a") as fout:
@@ -72,6 +76,17 @@ for nod in noduri:
         for nod_scop in noduri_scop:
             ds.append(d_euclidiana(nod['xy'], nod_scop['xy']))
         noduri_graf_euclid.append(Nod(nod, min(ds)))
+
+# noduri cu euristica data de distanta Manhattan
+noduri_graf_manhattan = [Nod(start, float('inf'))]
+for nod in noduri:
+    if scop(nod):
+        noduri_graf_manhattan.append(Nod(nod, 0))
+    else:
+        ds = []
+        for nod_scop in noduri_scop:
+            ds.append(d_manhattan(nod['xy'], nod_scop['xy']))
+        noduri_graf_manhattan.append(Nod(nod, min(ds)))
 
 
 class Graf:
@@ -239,3 +254,6 @@ if __name__ == "__main__":
 
     problema_h_euclid = Graf(noduri_graf_euclid, noduri_scop)
     a_star(problema_h_euclid)
+
+    problema_h_manhattan = Graf(noduri_graf_manhattan, noduri_scop)
+    a_star(problema_h_manhattan)
