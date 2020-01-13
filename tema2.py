@@ -5,28 +5,35 @@ import time
 import sys
 import stopit
 
+# fisierul 2 blocheaza ucs ul
+# fisierul 1 si 3 nu are solutii
+
 timeout = int(sys.argv[1])
 nrSolutiiCautate = int(sys.argv[2])
 fisier_input = str(sys.argv[3])
+start = None
 
-with open(fisier_input, 'r') as fin:
-    raza = int(fin.readline().strip('\n'))
-    greutate_initiala_broasca = int(fin.readline().strip('\n'))
-    id_frunza_start = fin.readline().strip('\n')
-    noduri = []
-    for line in fin:
-        line = line.split()
-        nod = dict(id_frunza=line[0], xy=(int(line[1]), int(line[2])), insecte=int(line[3]),
-                   greutate_max=int(line[4]))
-        if line[0] == id_frunza_start:
-            start = nod
-        else:
+
+def citire_fisier():
+    global start
+    with open(fisier_input, 'r') as fin:
+        raza = int(fin.readline().strip('\n'))
+        greutate_initiala_broasca = int(fin.readline().strip('\n'))
+        id_frunza_start = fin.readline().strip('\n')
+        noduri = []
+        for line in fin:
+            cuvinte_linie = line.split()
+            nod = dict(id_frunza=cuvinte_linie[0], xy=(int(cuvinte_linie[1]), int(cuvinte_linie[2])),
+                       insecte=int(cuvinte_linie[3]), greutate_max=int(cuvinte_linie[4]))
+            if cuvinte_linie[0] == id_frunza_start:
+                start = nod
             noduri.append(nod)
-    print("Raza: ", raza)
-    print("Greutate initiala broscuta: ", greutate_initiala_broasca)
-    print("Id frunza start: ", id_frunza_start)
-    print("Noduri: ")
-    print(noduri)
+        print("Raza: {}\nGreutate initiala broscuta:{}\n".format(raza, greutate_initiala_broasca))
+        print("Id frunza start: {}\nNoduri:\n{}\n\n".format(id_frunza_start, noduri))
+        return raza, greutate_initiala_broasca, id_frunza_start, noduri
+
+
+raza, greutate_initiala_broasca, id_frunza_start, noduri = citire_fisier()
 
 
 def d_euclidiana(xy1, xy2):
@@ -42,9 +49,11 @@ def calcMaxMem():
 
 
 class NodParcurgere:
-    def __init__(self, info, cost, parinte):
+    def __init__(self, info, cost, parinte, insecteMancate=None, greutateCurenta=None):
+        self.greutateCurenta = greutateCurenta
+        self.insecteMancate = insecteMancate
         self.info = info
-        self.parinte = parinte  # parintele din arborele de parcurgere
+        self.parinte = parinte
         self.cost = cost
 
     def obtineDrum(self):
@@ -74,8 +83,8 @@ class NodParcurgere:
             stare_trecuta = self.parinte.info['id_frunza'] + str(self.parinte.info['xy'])
             stare_curenta = self.info['id_frunza'] + str(self.info['xy'])
             sir += 'Broscuta a sarit de la {} la {}.\n'.format(stare_trecuta, stare_curenta)
-            insecte = self.info['greutate_max'] - self.parinte.info['greutate_max'] + 1
-            sir += 'Broasca a mancat {} insecte. Greutate broscuta: {}'.format(insecte, self.info['greutate_max'])
+            sir += 'Broasca a mancat {} insecte. Greutate broscuta: {}'.format(self.insecteMancate,
+                                                                               self.greutateCurenta)
         return sir
 
     def contineInDrum(self, infoNodNou):
@@ -94,7 +103,6 @@ class NodParcurgere:
         return self.sirAfisare()
 
 
-
 class Graph:
     def __init__(self, noduri, start):
         self.noduri = noduri
@@ -102,30 +110,30 @@ class Graph:
         self.start = start
 
     def genereazaSuccesori(self, nodCurent):
-        greutate_max_curenta = nodCurent.info['greutate_max']
-        xy_curent = nodCurent.info['xy']
+        greutate_inainte_de_saritura = nodCurent.greutateCurenta
+        if greutate_inainte_de_saritura is None:
+            greutate_inainte_de_saritura = nodCurent.info['greutate_max']
         listaSuccesori = []
-        # if greutate_max_curenta - 1 == 0:
-        #     return listaSuccesori
-        for i in range(self.nrNoduri):
-            if nodCurent.contineInDrum(noduri[i]):
+        if greutate_inainte_de_saritura - 1 == 0:
+            return listaSuccesori
+
+        for i in range(len(self.noduri)):
+            nod_i = self.noduri[i]
+            if nodCurent.contineInDrum(nod_i):
                 continue
-            greutate_max = self.noduri[i]['greutate_max']
-            xy = self.noduri[i]['xy']
-            insecte = self.noduri[i]['insecte']
-            id_frunza = self.noduri[i]['id_frunza']
-
-            if d_euclidiana(xy_curent, xy) > greutate_max_curenta / 3:
+            if d_euclidiana(nodCurent.info['xy'], nod_i['xy']) > greutate_inainte_de_saritura / 3:
                 continue
+            greutate_dupa_saritura = greutate_inainte_de_saritura - 1
+            insecteMancate = 0
 
-            greutate_noua = greutate_max_curenta - 1
-            for i in range(insecte):
-                if greutate_noua <= greutate_max:
-                    greutate_noua += 1
-                    insecte -= 1
+            while greutate_dupa_saritura < nod_i['greutate_max'] and insecteMancate < nod_i['insecte']:
+                greutate_dupa_saritura += 1
+                insecteMancate += 1
+            nod_i['insecte'] -= insecteMancate
 
-            nodSuccesor = NodParcurgere(dict(id_frunza=id_frunza, xy=xy, insecte=insecte, greutate_max=greutate_noua),
-                                        nodCurent.cost + d_euclidiana(xy_curent, xy), nodCurent)
+            nodSuccesor = NodParcurgere(nod_i, nodCurent.cost + d_euclidiana(nodCurent.info['xy'],
+                                                                             nod_i['xy']), nodCurent, insecteMancate,
+                                        greutate_dupa_saritura)
             listaSuccesori.append(nodSuccesor)
         return listaSuccesori
 
@@ -156,12 +164,10 @@ def uniform_cost(graph):
     continua = True
     while len(c) > 0 and continua:
         nodCurent = c.pop(0)
-        if nodCurent.info['greutate_max'] == 1:
-            break
 
         if test_scop(nodCurent):
             nodCurent.afisDrum()
-            print("#"*40)
+            print("#" * 40)
             nrSolutiiCautate -= 1
             if nrSolutiiCautate == 0:
                 continua = False
@@ -169,7 +175,7 @@ def uniform_cost(graph):
         for s in lSuccesori:
             inserare_in_coada_prioritati(c, s)
         calcMaxMem()
-    return "Algoritmul UCS a fost finalizat"
+    return "Algoritmul UCS a fost finalizat\n"
 
 
 def inserare_in_coada_prioritati(c, s):
@@ -200,25 +206,254 @@ t2 = time.time()
 milis = round(1000 * (t2 - t1))
 print("Memorie maxim folosita la UCS: {}. Timp: {}\n\n\n".format(maxMem, milis))
 
+# ##################################### A STAR ###################################################
+raza, greutate_initiala_broasca, id_frunza_start, noduri = citire_fisier()
 
 
+def d_manhattan(xy1, xy2):
+    return abs(xy1[0] - xy2[0]) + abs(xy1[1] - xy2[1])  # |x1 - x2| + |y1 - y2|
 
 
+def scop(nodCurent):
+    if nodCurent['xy'][0] ** 2 + nodCurent['xy'][1] ** 2 == raza ** 2:  # x^2 + y^2 = raza^2
+        return True
+    return False
 
 
+class Nod:
+    def __init__(self, info, h, insecteMancate=None, greutateCurenta=None):
+        self.greutateCurenta = greutateCurenta
+        self.insecteMancate = insecteMancate
+        self.info = info
+        self.h = h
+
+    def __str__(self):
+        return "(" + str(self.info) + ", h=" + str(self.h) + ")"
+
+    def __repr__(self):
+        return "(" + str(self.info) + ", h=" + str(self.h) + ")"
 
 
+# noduri cu euristica banala
+noduri_graf = [Nod(start, float('inf'))]
+noduri_scop = []
+for nod in noduri:
+    if scop(nod):
+        noduri_graf.append(Nod(nod, 0))
+        noduri_scop.append(nod)
+    else:
+        noduri_graf.append(Nod(nod, 1))
+
+# noduri cu euristica data de distanta euclidiana
+noduri_graf_euclid = [Nod(start, float('inf'))]  # consideram ca nodul de start are h = infinit
+for nod in noduri:
+    if scop(nod):
+        noduri_graf_euclid.append(Nod(nod, 0))  # consideram ca nodurile scop au h = 0
+    else:  # celelalte noduri au h = distanta euclidiana
+        distante = []
+        for nod_scop in noduri_scop:  # calculam distantele de la nod la nodurile scop pentru a o alege apoi pe cea mai mica
+            distante.append(d_euclidiana(nod['xy'], nod_scop['xy']))
+        if len(distante) != 0:  # daca avem noduri scop
+            noduri_graf_euclid.append(
+                Nod(nod, min(distante)))  # consideram h = cea mai mica distanta de la nod la un nod scop
+        else:  # daca nu avem noduri scop
+            noduri_graf_euclid.append(Nod(nod, 1))  # consideram h = 1
+
+# noduri cu euristica data de distanta Manhattan
+noduri_graf_manhattan = [Nod(start, float('inf'))]
+for nod in noduri:
+    if scop(nod):
+        noduri_graf_manhattan.append(Nod(nod, 0))
+    else:
+        distante = []
+        for nod_scop in noduri_scop:
+            distante.append(d_manhattan(nod['xy'], nod_scop['xy']))
+        if len(distante) != 0:
+            noduri_graf_manhattan.append(Nod(nod, min(distante)))
+        else:
+            noduri_graf_manhattan.append(Nod(nod, 1))
 
 
+class Graf:
+    def __init__(self, noduri_graf, noduri_scop):
+        self.noduri = noduri_graf
+        self.nod_start = self.noduri[0]
+        self.noduri_scop = noduri_scop
+
+    def scop(self, nod):  # testeaza daca nodul dat ca parametru este un nod scop
+        if nod.info in noduri_scop:
+            return True
+        return False
+
+    def genereazaSuccesori(self, nodCurent):
+        greutate_inainte_de_saritura = nodCurent.greutateCurenta
+        if greutate_inainte_de_saritura is None:
+            greutate_inainte_de_saritura = nodCurent.info['greutate_max']
+        listaSuccesori = []
+        if greutate_inainte_de_saritura - 1 == 0:
+            return listaSuccesori
+        for i in range(len(self.noduri)):
+            if self.noduri[i].info != nodCurent.info:
+                nod_i = self.noduri[i]
+                if d_euclidiana(nodCurent.info['xy'], nod_i.info['xy']) > greutate_inainte_de_saritura / 3:
+                    continue
+
+                greutate_dupa_saritura = greutate_inainte_de_saritura - 1
+                insecteMancate = 0
+
+                while greutate_dupa_saritura < nod_i.info['greutate_max'] and insecteMancate < nod_i.info['insecte']:
+                    greutate_dupa_saritura += 1
+                    insecteMancate += 1
+                cost = d_euclidiana(nodCurent.info['xy'], nod_i.info['xy'])
+                nodSuccesor = Nod(self.noduri[i].info, self.noduri[i].h, insecteMancate, greutate_dupa_saritura)
+                listaSuccesori.append((nodSuccesor, cost))
+        return listaSuccesori
 
 
+class NodParcurgere:
+
+    def __init__(self, nod_graf, succesori=None, parinte=None, g=0, f=None):
+        if succesori is None:
+            succesori = []
+        self.nod_graf = nod_graf
+        self.succesori = succesori
+        self.parinte = parinte
+        self.g = g
+        if f is None:
+            self.f = self.g + self.nod_graf.h
+        else:
+            self.f = f
+
+    def obtineDrum(self):
+        drum = [self]
+        nod = self
+        while nod.parinte is not None:
+            drum.insert(0, nod.parinte)
+            nod = nod.parinte
+        return drum
+
+    def afis_adrum(self):
+        drum = self.obtineDrum()
+        for nod in drum:
+            print('{}){}'.format(drum.index(nod) + 1, nod))
+            scrie_in_fisier('{}){}\n'.format(drum.index(nod) + 1, nod))
+        print('{})Broscuta a ajuns la mal in {} sarituri.'.format(len(drum) + 1, len(drum)))
+        scrie_in_fisier('{})Broscuta a ajuns la mal in {} sarituri.\n\n\n'.format(len(drum) + 1, len(drum)))
+        scrie_in_fisier('#' * 10 + '\n' * 3)
+        return len(drum)
+
+    def contine_in_drum(self, infoNodNou):
+        nodDrum = self
+        while nodDrum is not None:
+            if infoNodNou.info == nodDrum.nod_graf.info:
+                return True
+            nodDrum = nodDrum.parinte
+        return False
+
+    def sirAfisare(self):
+        sir = ""
+        if self.parinte is None:
+            sir += 'Broscuta se afla pe frunza initiala {}.\n'.format(self.nod_graf.info['id_frunza'])
+            sir += 'Greutate broscuta: {}'.format(str(self.nod_graf.info['greutate_max']))
+        else:
+            stare_trecuta = self.parinte.nod_graf.info['id_frunza'] + str(self.parinte.nod_graf.info['xy'])
+            stare_curenta = self.nod_graf.info['id_frunza'] + str(self.nod_graf.info['xy'])
+            sir += 'Broscuta a sarit de la {} la {}.\n'.format(stare_trecuta, stare_curenta)
+            sir += 'Broasca a mancat {} insecte. Greutate broscuta: {}'.format(self.nod_graf.insecteMancate,
+                                                                               self.nod_graf.greutateCurenta)
+        return sir
+
+    def __repr__(self):
+        return self.sirAfisare()
+
+    def __str__(self):
+        return self.sirAfisare()
 
 
+def in_lista(l, nod):
+    for x in l:
+        if x.nod_graf.info == nod.info:
+            return x
+    return None
 
 
+@stopit.threading_timeoutable(default="Algoritmul A STAR a intrat in timeout")
+def a_star(graf):
+    rad_arbore = NodParcurgere(nod_graf=graf.nod_start)
+    open = [rad_arbore]
+    closed = []
+    while len(open) > 0:
+        nod_curent = open.pop(0)
+        closed.append(nod_curent)  # il adaugam in closed pt ca urmeaza sa l expandez
+        if graf.scop(
+                nod_curent.nod_graf):  # testez daca nodul extras din lista open este nod scop (si daca da, ies din bucla while)
+            break
+        l_succesori = graf.genereazaSuccesori(nod_curent.nod_graf)
+        for (nod, cost) in l_succesori:
+            if not nod_curent.contine_in_drum(nod):
+                # verific daca se afla in closed
+                x = in_lista(closed, nod)
+                g_succesor = nod_curent.g + cost  # calculam noul g al nodului
+                f = g_succesor + nod.h
+                if x is not None:
+                    if f < nod_curent.f:  # daca f ul calculat acum este mai mic decat cel de dinainte,
+                        # setam noul parinte si recalcumal g si f
+                        x.parinte = nod_curent
+                        x.g = g_succesor
+                        x.f = f
+                        print(x)
+                else:
+                    # verific daca se afla in open
+                    x = in_lista(open, nod)
+                    if x is not None:
+                        if x.g > g_succesor:
+                            x.parinte = nod_curent
+                            x.g = g_succesor
+                            x.f = f
+                            print(x)
+                    else:  # cand nu e nici in closed nici in open, adica nu a fost vizitat, il adaug la lista
+                        # nodurilor de expandat
+                        nod_cautare = NodParcurgere(nod_graf=nod, parinte=nod_curent,
+                                                    g=g_succesor)  # se calculeaza f automat in constructor
+                        open.append(nod_cautare)
+        open.sort(key=lambda x: (x.f, -x.g))  # pentru f-uri egale sortam descrescator dupa g
+        # pentru x (care va fi pe rand fiecare element din open), sorteaza dupa f; daca f urile sunt egale,
+        # sorteaza dupa g, descrescator pentru ca il preferam pe cel din care stim mai mult, adica unde g-ul este cel
+        # mai mare
+        calcMaxMem()
+    # iese din while daca a gasit o solutie sau daca len(c)a devenit 0 (am verificat toate nodurile si niciunul n a
+    # fost scop)
+    if len(open) == 0:
+        print("Lista open e vida, nu avem drum de la nodul start la nodul scop")
+    else:
+        print("Drum de cost minim: " + str(nod_curent.afis_adrum()))
+    return "Algoritmul A star s-a finalizat cu succes"
 
 
+if __name__ == "__main__":
+    maxMem = 0
+    print("#" * 30 + " A STAR CU EURISTICA BANALA " + "#" * 30)
+    problema_h_banala = Graf(noduri_graf, noduri_scop)
+    t1 = time.time()
+    print(a_star(problema_h_banala, timeout=timeout))
+    t2 = time.time()
+    milis = round(1000 * (t2 - t1))
+    print("Memorie maxim folosita la A star: {}. Timp: {}\n\n\n".format(maxMem, milis))
 
+    maxMem = 0
+    print("#" * 30 + " A STAR CU DISTANTA EUCLIDIANA " + "#" * 30)
+    problema_h_euclid = Graf(noduri_graf_euclid, noduri_scop)
+    t1 = time.time()
+    print(a_star(problema_h_euclid, timeout=timeout))
+    t2 = time.time()
+    milis = round(1000 * (t2 - t1))
+    print("Memorie maxim folosita la A star: {}. Timp: {}\n\n\n".format(maxMem, milis))
 
-
-
+    maxMem = 0
+    print("#" * 30 + " A STAR CU DISTANTA MANHATTAN " + "#" * 30)
+    problema_h_manhattan = Graf(noduri_graf_manhattan, noduri_scop)
+    t1 = time.time()
+    print(a_star(problema_h_manhattan, timeout=timeout))
+    t2 = time.time()
+    milis = round(1000 * (t2 - t1))
+    print("Memorie maxim folosita la A star: {}. Timp: {}\n\n\n".format(maxMem, milis))
