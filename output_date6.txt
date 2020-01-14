@@ -1,0 +1,672 @@
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id1.
+Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(1, 1).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+3)Broscuta a sarit de la id2(1, 1) la id3(2, 2).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+4)Broscuta a sarit de la id3(2, 2) la id4(3, 3).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+5)Broscuta a sarit de la id4(3, 3) la id5(4, 4).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+6)Broscuta a sarit de la id5(4, 4) la id6(4, 5).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+7)Broscuta a sarit de la id6(4, 5) la id7(4, 6).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+8)Broscuta a sarit de la id7(4, 6) la id8(4, 7).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+9)Broscuta a sarit de la id8(4, 7) la id9(4, 8).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+10)Broscuta a sarit de la id9(4, 8) la id10(4, 9).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+11)Broscuta a sarit de la id10(4, 9) la id11(4, 10).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+12)Broscuta a sarit de la id11(4, 10) la id12(4, 11).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+13)Broscuta a sarit de la id12(4, 11) la id13(5, 12).
+Broasca a mancat 1 insecte. Greutate broscuta: 5
+14)Broscuta a ajuns la mal in 13 sarituri.
+
+
+##########
+
+

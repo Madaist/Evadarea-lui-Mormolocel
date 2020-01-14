@@ -6,7 +6,8 @@ import sys
 import stopit
 
 # fisierul 2 blocheaza ucs ul
-# fisierul 1 si 3 nu are solutii
+# fisierul 1 si 3 nu au solutii
+# input_Date5  si 6 au lungime 10
 
 timeout = int(sys.argv[1])
 nrSolutiiCautate = int(sys.argv[2])
@@ -17,13 +18,13 @@ start = None
 def citire_fisier():
     global start
     with open(fisier_input, 'r') as fin:
-        raza = int(fin.readline().strip('\n'))
+        raza = float(fin.readline().strip('\n'))
         greutate_initiala_broasca = int(fin.readline().strip('\n'))
         id_frunza_start = fin.readline().strip('\n')
         noduri = []
         for line in fin:
             cuvinte_linie = line.split()
-            nod = dict(id_frunza=cuvinte_linie[0], xy=(int(cuvinte_linie[1]), int(cuvinte_linie[2])),
+            nod = dict(id_frunza=cuvinte_linie[0], xy=(float(cuvinte_linie[1]), float(cuvinte_linie[2])),
                        insecte=int(cuvinte_linie[3]), greutate_max=int(cuvinte_linie[4]))
             if cuvinte_linie[0] == id_frunza_start:
                 start = nod
@@ -112,7 +113,7 @@ class Graph:
     def genereazaSuccesori(self, nodCurent):
         greutate_inainte_de_saritura = nodCurent.greutateCurenta
         if greutate_inainte_de_saritura is None:
-            greutate_inainte_de_saritura = nodCurent.info['greutate_max']
+            greutate_inainte_de_saritura = greutate_initiala_broasca
         listaSuccesori = []
         if greutate_inainte_de_saritura - 1 == 0:
             return listaSuccesori
@@ -201,7 +202,7 @@ def scrie_in_fisier(output):
 
 maxMem = 0
 t1 = time.time()
-print(uniform_cost(gr, timeout=timeout))
+print(uniform_cost(gr))
 t2 = time.time()
 milis = round(1000 * (t2 - t1))
 print("Memorie maxim folosita la UCS: {}. Timp: {}\n\n\n".format(maxMem, milis))
@@ -340,7 +341,7 @@ class NodParcurgere:
         print('{})Broscuta a ajuns la mal in {} sarituri.'.format(len(drum) + 1, len(drum)))
         scrie_in_fisier('{})Broscuta a ajuns la mal in {} sarituri.\n\n\n'.format(len(drum) + 1, len(drum)))
         scrie_in_fisier('#' * 10 + '\n' * 3)
-        return len(drum)
+        # return len(drum)
 
     def contine_in_drum(self, infoNodNou):
         nodDrum = self
@@ -383,11 +384,14 @@ def a_star(graf):
     open = [rad_arbore]
     closed = []
     while len(open) > 0:
-        nod_curent = open.pop(0)
+        # nod_curent = open.pop(0)
+        nod_curent = open[0]  # nu l am scos din coada pentru ca daca este scop dar este ultimul din coada, coada va
+        # deveni vida iar la iesirea din while, va afisa ca nu avem solutii
         closed.append(nod_curent)  # il adaugam in closed pt ca urmeaza sa l expandez
-        if graf.scop(
-                nod_curent.nod_graf):  # testez daca nodul extras din lista open este nod scop (si daca da, ies din bucla while)
+        # testez daca nodul extras din lista open este nod scop (si daca da, ies din bucla while)
+        if graf.scop(nod_curent.nod_graf):
             break
+        nod_curent = open.pop(0)
         l_succesori = graf.genereazaSuccesori(nod_curent.nod_graf)
         for (nod, cost) in l_succesori:
             if not nod_curent.contine_in_drum(nod):
@@ -426,7 +430,7 @@ def a_star(graf):
     if len(open) == 0:
         print("Lista open e vida, nu avem drum de la nodul start la nodul scop")
     else:
-        print("Drum de cost minim: " + str(nod_curent.afis_adrum()))
+        nod_curent.afis_adrum()
     return "Algoritmul A star s-a finalizat cu succes"
 
 
@@ -435,7 +439,7 @@ if __name__ == "__main__":
     print("#" * 30 + " A STAR CU EURISTICA BANALA " + "#" * 30)
     problema_h_banala = Graf(noduri_graf, noduri_scop)
     t1 = time.time()
-    print(a_star(problema_h_banala, timeout=timeout))
+    print(a_star(problema_h_banala))
     t2 = time.time()
     milis = round(1000 * (t2 - t1))
     print("Memorie maxim folosita la A star: {}. Timp: {}\n\n\n".format(maxMem, milis))

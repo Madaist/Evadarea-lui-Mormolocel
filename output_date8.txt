@@ -1,0 +1,1256 @@
+1)Broscuta se afla pe frunza initiala id0.
+Greutate broscuta: 8
+2)Broscuta a sarit de la id0(0.1, 0.1) la id1(0.2, 0.2).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+3)Broscuta a sarit de la id1(0.2, 0.2) la id9(0.9999999999999999, 0.9999999999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+4)Broscuta a sarit de la id9(0.9999999999999999, 0.9999999999999999) la id19(2.0000000000000004, 2.0000000000000004).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+5)Broscuta a sarit de la id19(2.0000000000000004, 2.0000000000000004) la id29(3.0000000000000013, 3.0000000000000013).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+6)Broscuta a sarit de la id29(3.0000000000000013, 3.0000000000000013) la id30(3.1000000000000014, 3.1000000000000014).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+7)Broscuta a sarit de la id30(3.1000000000000014, 3.1000000000000014) la id31(3.2000000000000015, 3.2000000000000015).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+8)Broscuta a sarit de la id31(3.2000000000000015, 3.2000000000000015) la id32(3.3000000000000016, 3.3000000000000016).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+9)Broscuta a sarit de la id32(3.3000000000000016, 3.3000000000000016) la id33(3.4000000000000017, 3.4000000000000017).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+10)Broscuta a sarit de la id33(3.4000000000000017, 3.4000000000000017) la id34(3.5000000000000018, 3.5000000000000018).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+11)Broscuta a sarit de la id34(3.5000000000000018, 3.5000000000000018) la id35(3.600000000000002, 3.600000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+12)Broscuta a sarit de la id35(3.600000000000002, 3.600000000000002) la id36(3.700000000000002, 3.700000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+13)Broscuta a sarit de la id36(3.700000000000002, 3.700000000000002) la id37(3.800000000000002, 3.800000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+14)Broscuta a sarit de la id37(3.800000000000002, 3.800000000000002) la id38(3.900000000000002, 3.900000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+15)Broscuta a sarit de la id38(3.900000000000002, 3.900000000000002) la id41(4.200000000000001, 4.200000000000001).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+16)Broscuta a sarit de la id41(4.200000000000001, 4.200000000000001) la id43(4.4, 4.4).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+17)Broscuta a sarit de la id43(4.4, 4.4) la id46(4.699999999999999, 4.699999999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+18)Broscuta a sarit de la id46(4.699999999999999, 4.699999999999999) la id48(4.899999999999999, 4.899999999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+19)Broscuta a sarit de la id48(4.899999999999999, 4.899999999999999) la id51(5.1999999999999975, 5.1999999999999975).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+20)Broscuta a sarit de la id51(5.1999999999999975, 5.1999999999999975) la id53(5.399999999999997, 5.399999999999997).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+21)Broscuta a sarit de la id53(5.399999999999997, 5.399999999999997) la id56(5.699999999999996, 5.699999999999996).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+22)Broscuta a sarit de la id56(5.699999999999996, 5.699999999999996) la id57(5.799999999999995, 5.799999999999995).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+23)Broscuta a sarit de la id57(5.799999999999995, 5.799999999999995) la id61(6.199999999999994, 6.199999999999994).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+24)Broscuta a sarit de la id61(6.199999999999994, 6.199999999999994) la id66(6.699999999999992, 6.699999999999992).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+25)Broscuta a sarit de la id66(6.699999999999992, 6.699999999999992) la id70(7.099999999999991, 7.099999999999991).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+26)Broscuta a sarit de la id70(7.099999999999991, 7.099999999999991) la id75(7.599999999999989, 7.599999999999989).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+27)Broscuta a sarit de la id75(7.599999999999989, 7.599999999999989) la id79(7.999999999999988, 7.999999999999988).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+28)Broscuta a sarit de la id79(7.999999999999988, 7.999999999999988) la id84(8.499999999999986, 8.499999999999986).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+29)Broscuta a sarit de la id84(8.499999999999986, 8.499999999999986) la id88(8.899999999999984, 8.899999999999984).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+30)Broscuta a sarit de la id88(8.899999999999984, 8.899999999999984) la id93(9.399999999999983, 9.399999999999983).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+31)Broscuta a sarit de la id93(9.399999999999983, 9.399999999999983) la id97(9.799999999999981, 9.799999999999981).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+32)Broscuta a sarit de la id97(9.799999999999981, 9.799999999999981) la id102(10.29999999999998, 10.29999999999998).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+33)Broscuta a sarit de la id102(10.29999999999998, 10.29999999999998) la id106(10.699999999999978, 10.699999999999978).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+34)Broscuta a sarit de la id106(10.699999999999978, 10.699999999999978) la id114(11.499999999999975, 11.499999999999975).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+35)Broscuta a sarit de la id114(11.499999999999975, 11.499999999999975) la id123(12.399999999999972, 12.399999999999972).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+36)Broscuta a sarit de la id123(12.399999999999972, 12.399999999999972) la id131(13.199999999999969, 13.199999999999969).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+37)Broscuta a sarit de la id131(13.199999999999969, 13.199999999999969) la id140(14.099999999999966, 14.099999999999966).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+38)Broscuta a sarit de la id140(14.099999999999966, 14.099999999999966) la id148(14.899999999999963, 14.899999999999963).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+39)Broscuta a sarit de la id148(14.899999999999963, 14.899999999999963) la id157(15.79999999999996, 15.79999999999996).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+40)Broscuta a sarit de la id157(15.79999999999996, 15.79999999999996) la id161(16.19999999999996, 16.19999999999996).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+41)Broscuta a sarit de la id161(16.19999999999996, 16.19999999999996) la id163(16.399999999999963, 16.399999999999963).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+42)Broscuta a sarit de la id163(16.399999999999963, 16.399999999999963) la id165(16.599999999999966, 16.599999999999966).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+43)Broscuta a sarit de la id165(16.599999999999966, 16.599999999999966) la id167(16.79999999999997, 16.79999999999997).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+44)Broscuta a sarit de la id167(16.79999999999997, 16.79999999999997) la id169(16.99999999999997, 16.99999999999997).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+45)Broscuta a sarit de la id169(16.99999999999997, 16.99999999999997) la id171(17.199999999999974, 17.199999999999974).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+46)Broscuta a sarit de la id171(17.199999999999974, 17.199999999999974) la id173(17.399999999999977, 17.399999999999977).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+47)Broscuta a sarit de la id173(17.399999999999977, 17.399999999999977) la id175(17.59999999999998, 17.59999999999998).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+48)Broscuta a sarit de la id175(17.59999999999998, 17.59999999999998) la id177(17.799999999999983, 17.799999999999983).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+49)Broscuta a sarit de la id177(17.799999999999983, 17.799999999999983) la id179(17.999999999999986, 17.999999999999986).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+50)Broscuta a sarit de la id179(17.999999999999986, 17.999999999999986) la id181(18.19999999999999, 18.19999999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+51)Broscuta a sarit de la id181(18.19999999999999, 18.19999999999999) la id183(18.39999999999999, 18.39999999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+52)Broscuta a sarit de la id183(18.39999999999999, 18.39999999999999) la id185(18.599999999999994, 18.599999999999994).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+53)Broscuta a sarit de la id185(18.599999999999994, 18.599999999999994) la id187(18.799999999999997, 18.799999999999997).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+54)Broscuta a sarit de la id187(18.799999999999997, 18.799999999999997) la id189(19.0, 19.0).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+55)Broscuta a sarit de la id189(19.0, 19.0) la id191(19.200000000000003, 19.200000000000003).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+56)Broscuta a sarit de la id191(19.200000000000003, 19.200000000000003) la id193(19.400000000000006, 19.400000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+57)Broscuta a sarit de la id193(19.400000000000006, 19.400000000000006) la id195(19.60000000000001, 19.60000000000001).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+58)Broscuta a sarit de la id195(19.60000000000001, 19.60000000000001) la id197(19.80000000000001, 19.80000000000001).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+59)Broscuta a sarit de la id197(19.80000000000001, 19.80000000000001) la id199(20.000000000000014, 20.000000000000014).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+60)Broscuta a sarit de la id199(20.000000000000014, 20.000000000000014) la id201(20.200000000000017, 20.200000000000017).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+61)Broscuta a sarit de la id201(20.200000000000017, 20.200000000000017) la id203(20.40000000000002, 20.40000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+62)Broscuta a sarit de la id203(20.40000000000002, 20.40000000000002) la id205(20.600000000000023, 20.600000000000023).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+63)Broscuta a sarit de la id205(20.600000000000023, 20.600000000000023) la id207(20.800000000000026, 20.800000000000026).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+64)Broscuta a sarit de la id207(20.800000000000026, 20.800000000000026) la id209(21.00000000000003, 21.00000000000003).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+65)Broscuta a sarit de la id209(21.00000000000003, 21.00000000000003) la id211(21.20000000000003, 21.20000000000003).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+66)Broscuta a sarit de la id211(21.20000000000003, 21.20000000000003) la id213(21.400000000000034, 21.400000000000034).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+67)Broscuta a sarit de la id213(21.400000000000034, 21.400000000000034) la id215(21.600000000000037, 21.600000000000037).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+68)Broscuta a sarit de la id215(21.600000000000037, 21.600000000000037) la id217(21.80000000000004, 21.80000000000004).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+69)Broscuta a sarit de la id217(21.80000000000004, 21.80000000000004) la id219(22.000000000000043, 22.000000000000043).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+70)Broscuta a sarit de la id219(22.000000000000043, 22.000000000000043) la id221(22.200000000000045, 22.200000000000045).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+71)Broscuta a sarit de la id221(22.200000000000045, 22.200000000000045) la id223(22.40000000000005, 22.40000000000005).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+72)Broscuta a sarit de la id223(22.40000000000005, 22.40000000000005) la id225(22.60000000000005, 22.60000000000005).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+73)Broscuta a sarit de la id225(22.60000000000005, 22.60000000000005) la id228(22.900000000000055, 22.900000000000055).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+74)Broscuta a sarit de la id228(22.900000000000055, 22.900000000000055) la id229(23.000000000000057, 23.000000000000057).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+75)Broscuta a sarit de la id229(23.000000000000057, 23.000000000000057) la id230(23.10000000000006, 23.10000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+76)Broscuta a sarit de la id230(23.10000000000006, 23.10000000000006) la id231(23.20000000000006, 23.20000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+77)Broscuta a sarit de la id231(23.20000000000006, 23.20000000000006) la id232(23.30000000000006, 23.30000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+78)Broscuta a sarit de la id232(23.30000000000006, 23.30000000000006) la id233(23.400000000000063, 23.400000000000063).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+79)Broscuta a sarit de la id233(23.400000000000063, 23.400000000000063) la id234(23.500000000000064, 23.500000000000064).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+80)Broscuta a sarit de la id234(23.500000000000064, 23.500000000000064) la id235(23.600000000000065, 23.600000000000065).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+81)Broscuta a sarit de la id235(23.600000000000065, 23.600000000000065) la id236(23.700000000000067, 23.700000000000067).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+82)Broscuta a sarit de la id236(23.700000000000067, 23.700000000000067) la id237(23.800000000000068, 23.800000000000068).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+83)Broscuta a sarit de la id237(23.800000000000068, 23.800000000000068) la id238(23.90000000000007, 23.90000000000007).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+84)Broscuta a sarit de la id238(23.90000000000007, 23.90000000000007) la id239(24.00000000000007, 24.00000000000007).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+85)Broscuta a sarit de la id239(24.00000000000007, 24.00000000000007) la id240(24.100000000000072, 24.100000000000072).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+86)Broscuta a sarit de la id240(24.100000000000072, 24.100000000000072) la id241(24.200000000000074, 24.200000000000074).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+87)Broscuta a sarit de la id241(24.200000000000074, 24.200000000000074) la id242(24.300000000000075, 24.300000000000075).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+88)Broscuta a sarit de la id242(24.300000000000075, 24.300000000000075) la id243(24.400000000000077, 24.400000000000077).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+89)Broscuta a sarit de la id243(24.400000000000077, 24.400000000000077) la id244(24.500000000000078, 24.500000000000078).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+90)Broscuta a sarit de la id244(24.500000000000078, 24.500000000000078) la id245(24.60000000000008, 24.60000000000008).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+91)Broscuta a sarit de la id245(24.60000000000008, 24.60000000000008) la id246(24.70000000000008, 24.70000000000008).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+92)Broscuta a sarit de la id246(24.70000000000008, 24.70000000000008) la id247(24.800000000000082, 24.800000000000082).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+93)Broscuta a sarit de la id247(24.800000000000082, 24.800000000000082) la id248(24.900000000000084, 24.900000000000084).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+94)Broscuta a sarit de la id248(24.900000000000084, 24.900000000000084) la id249(25.000000000000085, 25.000000000000085).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+95)Broscuta a sarit de la id249(25.000000000000085, 25.000000000000085) la id250(25.100000000000087, 25.100000000000087).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+96)Broscuta a sarit de la id250(25.100000000000087, 25.100000000000087) la id251(25.200000000000088, 25.200000000000088).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+97)Broscuta a sarit de la id251(25.200000000000088, 25.200000000000088) la id252(25.30000000000009, 25.30000000000009).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+98)Broscuta a sarit de la id252(25.30000000000009, 25.30000000000009) la id253(25.40000000000009, 25.40000000000009).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+99)Broscuta a sarit de la id253(25.40000000000009, 25.40000000000009) la id254(25.500000000000092, 25.500000000000092).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+100)Broscuta a sarit de la id254(25.500000000000092, 25.500000000000092) la id255(25.600000000000094, 25.600000000000094).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+101)Broscuta a sarit de la id255(25.600000000000094, 25.600000000000094) la id256(25.700000000000095, 25.700000000000095).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+102)Broscuta a sarit de la id256(25.700000000000095, 25.700000000000095) la id257(25.800000000000097, 25.800000000000097).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+103)Broscuta a sarit de la id257(25.800000000000097, 25.800000000000097) la id258(25.900000000000098, 25.900000000000098).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+104)Broscuta a sarit de la id258(25.900000000000098, 25.900000000000098) la id259(26.0000000000001, 26.0000000000001).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+105)Broscuta a sarit de la id259(26.0000000000001, 26.0000000000001) la id260(26.1000000000001, 26.1000000000001).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+106)Broscuta a sarit de la id260(26.1000000000001, 26.1000000000001) la id261(26.200000000000102, 26.200000000000102).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+107)Broscuta a sarit de la id261(26.200000000000102, 26.200000000000102) la id262(26.300000000000104, 26.300000000000104).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+108)Broscuta a sarit de la id262(26.300000000000104, 26.300000000000104) la id263(26.400000000000105, 26.400000000000105).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+109)Broscuta a sarit de la id263(26.400000000000105, 26.400000000000105) la id264(26.500000000000107, 26.500000000000107).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+110)Broscuta a sarit de la id264(26.500000000000107, 26.500000000000107) la id265(26.600000000000108, 26.600000000000108).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+111)Broscuta a sarit de la id265(26.600000000000108, 26.600000000000108) la id266(26.70000000000011, 26.70000000000011).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+112)Broscuta a sarit de la id266(26.70000000000011, 26.70000000000011) la id267(26.80000000000011, 26.80000000000011).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+113)Broscuta a sarit de la id267(26.80000000000011, 26.80000000000011) la id268(26.900000000000112, 26.900000000000112).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+114)Broscuta a sarit de la id268(26.900000000000112, 26.900000000000112) la id269(27.000000000000114, 27.000000000000114).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+115)Broscuta a sarit de la id269(27.000000000000114, 27.000000000000114) la id270(27.100000000000115, 27.100000000000115).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+116)Broscuta a sarit de la id270(27.100000000000115, 27.100000000000115) la id271(27.200000000000117, 27.200000000000117).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+117)Broscuta a sarit de la id271(27.200000000000117, 27.200000000000117) la id272(27.300000000000118, 27.300000000000118).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+118)Broscuta a sarit de la id272(27.300000000000118, 27.300000000000118) la id273(27.40000000000012, 27.40000000000012).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+119)Broscuta a sarit de la id273(27.40000000000012, 27.40000000000012) la id274(27.50000000000012, 27.50000000000012).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+120)Broscuta a sarit de la id274(27.50000000000012, 27.50000000000012) la id275(27.600000000000122, 27.600000000000122).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+121)Broscuta a sarit de la id275(27.600000000000122, 27.600000000000122) la id276(27.700000000000124, 27.700000000000124).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+122)Broscuta a sarit de la id276(27.700000000000124, 27.700000000000124) la id277(27.800000000000125, 27.800000000000125).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+123)Broscuta a sarit de la id277(27.800000000000125, 27.800000000000125) la id278(27.900000000000126, 27.900000000000126).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+124)Broscuta a sarit de la id278(27.900000000000126, 27.900000000000126) la id279(28.000000000000128, 28.000000000000128).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+125)Broscuta a sarit de la id279(28.000000000000128, 28.000000000000128) la id280(28.10000000000013, 28.10000000000013).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+126)Broscuta a sarit de la id280(28.10000000000013, 28.10000000000013) la id281(28.20000000000013, 28.20000000000013).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+127)Broscuta a sarit de la id281(28.20000000000013, 28.20000000000013) la id282(28.300000000000132, 28.300000000000132).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+128)Broscuta a sarit de la id282(28.300000000000132, 28.300000000000132) la id283(28.400000000000134, 28.400000000000134).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+129)Broscuta a sarit de la id283(28.400000000000134, 28.400000000000134) la id284(28.500000000000135, 28.500000000000135).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+130)Broscuta a sarit de la id284(28.500000000000135, 28.500000000000135) la id285(28.600000000000136, 28.600000000000136).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+131)Broscuta a sarit de la id285(28.600000000000136, 28.600000000000136) la id286(28.700000000000138, 28.700000000000138).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+132)Broscuta a sarit de la id286(28.700000000000138, 28.700000000000138) la id287(28.80000000000014, 28.80000000000014).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+133)Broscuta a sarit de la id287(28.80000000000014, 28.80000000000014) la id288(28.90000000000014, 28.90000000000014).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+134)Broscuta a sarit de la id288(28.90000000000014, 28.90000000000014) la id289(29.000000000000142, 29.000000000000142).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+135)Broscuta a sarit de la id289(29.000000000000142, 29.000000000000142) la id290(29.100000000000144, 29.100000000000144).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+136)Broscuta a sarit de la id290(29.100000000000144, 29.100000000000144) la id291(29.200000000000145, 29.200000000000145).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+137)Broscuta a sarit de la id291(29.200000000000145, 29.200000000000145) la id292(29.300000000000146, 29.300000000000146).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+138)Broscuta a sarit de la id292(29.300000000000146, 29.300000000000146) la id293(29.400000000000148, 29.400000000000148).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+139)Broscuta a sarit de la id293(29.400000000000148, 29.400000000000148) la id294(29.50000000000015, 29.50000000000015).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+140)Broscuta a sarit de la id294(29.50000000000015, 29.50000000000015) la id295(29.60000000000015, 29.60000000000015).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+141)Broscuta a sarit de la id295(29.60000000000015, 29.60000000000015) la id296(29.700000000000152, 29.700000000000152).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+142)Broscuta a sarit de la id296(29.700000000000152, 29.700000000000152) la id297(29.800000000000153, 29.800000000000153).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+143)Broscuta a sarit de la id297(29.800000000000153, 29.800000000000153) la id298(29.900000000000155, 29.900000000000155).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+144)Broscuta a sarit de la id298(29.900000000000155, 29.900000000000155) la id299(30.000000000000156, 30.000000000000156).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+145)Broscuta a sarit de la id299(30.000000000000156, 30.000000000000156) la id300(30.100000000000158, 30.100000000000158).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+146)Broscuta a sarit de la id300(30.100000000000158, 30.100000000000158) la id301(30.20000000000016, 30.20000000000016).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+147)Broscuta a sarit de la id301(30.20000000000016, 30.20000000000016) la id302(30.30000000000016, 30.30000000000016).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+148)Broscuta a sarit de la id302(30.30000000000016, 30.30000000000016) la id303(30.400000000000162, 30.400000000000162).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+149)Broscuta a sarit de la id303(30.400000000000162, 30.400000000000162) la id304(30.500000000000163, 30.500000000000163).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+150)Broscuta a sarit de la id304(30.500000000000163, 30.500000000000163) la id305(30.600000000000165, 30.600000000000165).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+151)Broscuta a sarit de la id305(30.600000000000165, 30.600000000000165) la id306(30.700000000000166, 30.700000000000166).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+152)Broscuta a sarit de la id306(30.700000000000166, 30.700000000000166) la id307(30.800000000000168, 30.800000000000168).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+153)Broscuta a sarit de la id307(30.800000000000168, 30.800000000000168) la id308(30.90000000000017, 30.90000000000017).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+154)Broscuta a sarit de la id308(30.90000000000017, 30.90000000000017) la id309(31.00000000000017, 31.00000000000017).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+155)Broscuta a sarit de la id309(31.00000000000017, 31.00000000000017) la id310(31.100000000000172, 31.100000000000172).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+156)Broscuta a sarit de la id310(31.100000000000172, 31.100000000000172) la id311(31.200000000000173, 31.200000000000173).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+157)Broscuta a sarit de la id311(31.200000000000173, 31.200000000000173) la id312(31.300000000000175, 31.300000000000175).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+158)Broscuta a sarit de la id312(31.300000000000175, 31.300000000000175) la id313(31.400000000000176, 31.400000000000176).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+159)Broscuta a sarit de la id313(31.400000000000176, 31.400000000000176) la id314(31.500000000000178, 31.500000000000178).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+160)Broscuta a sarit de la id314(31.500000000000178, 31.500000000000178) la id315(31.60000000000018, 31.60000000000018).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+161)Broscuta a sarit de la id315(31.60000000000018, 31.60000000000018) la id316(31.70000000000018, 31.70000000000018).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+162)Broscuta a sarit de la id316(31.70000000000018, 31.70000000000018) la id317(31.800000000000182, 31.800000000000182).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+163)Broscuta a sarit de la id317(31.800000000000182, 31.800000000000182) la id318(31.900000000000183, 31.900000000000183).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+164)Broscuta a sarit de la id318(31.900000000000183, 31.900000000000183) la id319(32.000000000000185, 32.000000000000185).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+165)Broscuta a sarit de la id319(32.000000000000185, 32.000000000000185) la id320(32.100000000000186, 32.100000000000186).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+166)Broscuta a sarit de la id320(32.100000000000186, 32.100000000000186) la id321(32.20000000000019, 32.20000000000019).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+167)Broscuta a sarit de la id321(32.20000000000019, 32.20000000000019) la id322(32.30000000000019, 32.30000000000019).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+168)Broscuta a sarit de la id322(32.30000000000019, 32.30000000000019) la id323(32.40000000000019, 32.40000000000019).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+169)Broscuta a sarit de la id323(32.40000000000019, 32.40000000000019) la id324(32.50000000000019, 32.50000000000019).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+170)Broscuta a sarit de la id324(32.50000000000019, 32.50000000000019) la id325(32.60000000000019, 32.60000000000019).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+171)Broscuta a sarit de la id325(32.60000000000019, 32.60000000000019) la id326(32.700000000000195, 32.700000000000195).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+172)Broscuta a sarit de la id326(32.700000000000195, 32.700000000000195) la id327(32.800000000000196, 32.800000000000196).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+173)Broscuta a sarit de la id327(32.800000000000196, 32.800000000000196) la id328(32.9000000000002, 32.9000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+174)Broscuta a sarit de la id328(32.9000000000002, 32.9000000000002) la id329(33.0000000000002, 33.0000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+175)Broscuta a sarit de la id329(33.0000000000002, 33.0000000000002) la id330(33.1000000000002, 33.1000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+176)Broscuta a sarit de la id330(33.1000000000002, 33.1000000000002) la id331(33.2000000000002, 33.2000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+177)Broscuta a sarit de la id331(33.2000000000002, 33.2000000000002) la id332(33.3000000000002, 33.3000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+178)Broscuta a sarit de la id332(33.3000000000002, 33.3000000000002) la id333(33.400000000000205, 33.400000000000205).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+179)Broscuta a sarit de la id333(33.400000000000205, 33.400000000000205) la id334(33.500000000000206, 33.500000000000206).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+180)Broscuta a sarit de la id334(33.500000000000206, 33.500000000000206) la id335(33.60000000000021, 33.60000000000021).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+181)Broscuta a sarit de la id335(33.60000000000021, 33.60000000000021) la id336(33.70000000000021, 33.70000000000021).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+182)Broscuta a sarit de la id336(33.70000000000021, 33.70000000000021) la id337(33.80000000000021, 33.80000000000021).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+183)Broscuta a sarit de la id337(33.80000000000021, 33.80000000000021) la id338(33.90000000000021, 33.90000000000021).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+184)Broscuta a sarit de la id338(33.90000000000021, 33.90000000000021) la id339(34.00000000000021, 34.00000000000021).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+185)Broscuta a sarit de la id339(34.00000000000021, 34.00000000000021) la id340(34.100000000000215, 34.100000000000215).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+186)Broscuta a sarit de la id340(34.100000000000215, 34.100000000000215) la id341(34.200000000000216, 34.200000000000216).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+187)Broscuta a sarit de la id341(34.200000000000216, 34.200000000000216) la id342(34.30000000000022, 34.30000000000022).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+188)Broscuta a sarit de la id342(34.30000000000022, 34.30000000000022) la id343(34.40000000000022, 34.40000000000022).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+189)Broscuta a sarit de la id343(34.40000000000022, 34.40000000000022) la id344(34.50000000000022, 34.50000000000022).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+190)Broscuta a sarit de la id344(34.50000000000022, 34.50000000000022) la id345(34.60000000000022, 34.60000000000022).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+191)Broscuta a sarit de la id345(34.60000000000022, 34.60000000000022) la id346(34.70000000000022, 34.70000000000022).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+192)Broscuta a sarit de la id346(34.70000000000022, 34.70000000000022) la id347(34.800000000000225, 34.800000000000225).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+193)Broscuta a sarit de la id347(34.800000000000225, 34.800000000000225) la id348(34.900000000000226, 34.900000000000226).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+194)Broscuta a sarit de la id348(34.900000000000226, 34.900000000000226) la id349(35.00000000000023, 35.00000000000023).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+195)Broscuta a sarit de la id349(35.00000000000023, 35.00000000000023) la id350(35.10000000000023, 35.10000000000023).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+196)Broscuta a sarit de la id350(35.10000000000023, 35.10000000000023) la id351(35.20000000000023, 35.20000000000023).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+197)Broscuta a sarit de la id351(35.20000000000023, 35.20000000000023) la id352(35.30000000000023, 35.30000000000023).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+198)Broscuta a sarit de la id352(35.30000000000023, 35.30000000000023) la id353(35.40000000000023, 35.40000000000023).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+199)Broscuta a sarit de la id353(35.40000000000023, 35.40000000000023) la id354(35.500000000000234, 35.500000000000234).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+200)Broscuta a sarit de la id354(35.500000000000234, 35.500000000000234) la id355(35.600000000000236, 35.600000000000236).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+201)Broscuta a sarit de la id355(35.600000000000236, 35.600000000000236) la id356(35.70000000000024, 35.70000000000024).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+202)Broscuta a sarit de la id356(35.70000000000024, 35.70000000000024) la id357(35.80000000000024, 35.80000000000024).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+203)Broscuta a sarit de la id357(35.80000000000024, 35.80000000000024) la id358(35.90000000000024, 35.90000000000024).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+204)Broscuta a sarit de la id358(35.90000000000024, 35.90000000000024) la id359(36.00000000000024, 36.00000000000024).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+205)Broscuta a sarit de la id359(36.00000000000024, 36.00000000000024) la id360(36.10000000000024, 36.10000000000024).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+206)Broscuta a sarit de la id360(36.10000000000024, 36.10000000000024) la id361(36.200000000000244, 36.200000000000244).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+207)Broscuta a sarit de la id361(36.200000000000244, 36.200000000000244) la id362(36.300000000000246, 36.300000000000246).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+208)Broscuta a sarit de la id362(36.300000000000246, 36.300000000000246) la id363(36.40000000000025, 36.40000000000025).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+209)Broscuta a sarit de la id363(36.40000000000025, 36.40000000000025) la id364(36.50000000000025, 36.50000000000025).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+210)Broscuta a sarit de la id364(36.50000000000025, 36.50000000000025) la id365(36.60000000000025, 36.60000000000025).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+211)Broscuta a sarit de la id365(36.60000000000025, 36.60000000000025) la id366(36.70000000000025, 36.70000000000025).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+212)Broscuta a sarit de la id366(36.70000000000025, 36.70000000000025) la id367(36.80000000000025, 36.80000000000025).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+213)Broscuta a sarit de la id367(36.80000000000025, 36.80000000000025) la id368(36.900000000000254, 36.900000000000254).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+214)Broscuta a sarit de la id368(36.900000000000254, 36.900000000000254) la id369(37.000000000000256, 37.000000000000256).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+215)Broscuta a sarit de la id369(37.000000000000256, 37.000000000000256) la id370(37.10000000000026, 37.10000000000026).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+216)Broscuta a sarit de la id370(37.10000000000026, 37.10000000000026) la id371(37.20000000000026, 37.20000000000026).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+217)Broscuta a sarit de la id371(37.20000000000026, 37.20000000000026) la id372(37.30000000000026, 37.30000000000026).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+218)Broscuta a sarit de la id372(37.30000000000026, 37.30000000000026) la id373(37.40000000000026, 37.40000000000026).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+219)Broscuta a sarit de la id373(37.40000000000026, 37.40000000000026) la id374(37.50000000000026, 37.50000000000026).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+220)Broscuta a sarit de la id374(37.50000000000026, 37.50000000000026) la id375(37.600000000000264, 37.600000000000264).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+221)Broscuta a sarit de la id375(37.600000000000264, 37.600000000000264) la id376(37.700000000000266, 37.700000000000266).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+222)Broscuta a sarit de la id376(37.700000000000266, 37.700000000000266) la id377(37.80000000000027, 37.80000000000027).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+223)Broscuta a sarit de la id377(37.80000000000027, 37.80000000000027) la id378(37.90000000000027, 37.90000000000027).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+224)Broscuta a sarit de la id378(37.90000000000027, 37.90000000000027) la id379(38.00000000000027, 38.00000000000027).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+225)Broscuta a sarit de la id379(38.00000000000027, 38.00000000000027) la id380(38.10000000000027, 38.10000000000027).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+226)Broscuta a sarit de la id380(38.10000000000027, 38.10000000000027) la id381(38.20000000000027, 38.20000000000027).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+227)Broscuta a sarit de la id381(38.20000000000027, 38.20000000000027) la id382(38.300000000000274, 38.300000000000274).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+228)Broscuta a sarit de la id382(38.300000000000274, 38.300000000000274) la id383(38.400000000000276, 38.400000000000276).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+229)Broscuta a sarit de la id383(38.400000000000276, 38.400000000000276) la id384(38.50000000000028, 38.50000000000028).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+230)Broscuta a sarit de la id384(38.50000000000028, 38.50000000000028) la id385(38.60000000000028, 38.60000000000028).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+231)Broscuta a sarit de la id385(38.60000000000028, 38.60000000000028) la id386(38.70000000000028, 38.70000000000028).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+232)Broscuta a sarit de la id386(38.70000000000028, 38.70000000000028) la id387(38.80000000000028, 38.80000000000028).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+233)Broscuta a sarit de la id387(38.80000000000028, 38.80000000000028) la id388(38.90000000000028, 38.90000000000028).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+234)Broscuta a sarit de la id388(38.90000000000028, 38.90000000000028) la id389(39.000000000000284, 39.000000000000284).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+235)Broscuta a sarit de la id389(39.000000000000284, 39.000000000000284) la id390(39.100000000000286, 39.100000000000286).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+236)Broscuta a sarit de la id390(39.100000000000286, 39.100000000000286) la id391(39.20000000000029, 39.20000000000029).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+237)Broscuta a sarit de la id391(39.20000000000029, 39.20000000000029) la id392(39.30000000000029, 39.30000000000029).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+238)Broscuta a sarit de la id392(39.30000000000029, 39.30000000000029) la id393(39.40000000000029, 39.40000000000029).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+239)Broscuta a sarit de la id393(39.40000000000029, 39.40000000000029) la id394(39.50000000000029, 39.50000000000029).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+240)Broscuta a sarit de la id394(39.50000000000029, 39.50000000000029) la id395(39.60000000000029, 39.60000000000029).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+241)Broscuta a sarit de la id395(39.60000000000029, 39.60000000000029) la id396(39.700000000000294, 39.700000000000294).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+242)Broscuta a sarit de la id396(39.700000000000294, 39.700000000000294) la id397(39.800000000000296, 39.800000000000296).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+243)Broscuta a sarit de la id397(39.800000000000296, 39.800000000000296) la id398(39.9000000000003, 39.9000000000003).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+244)Broscuta a sarit de la id398(39.9000000000003, 39.9000000000003) la id399(40.0000000000003, 40.0000000000003).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+245)Broscuta a sarit de la id399(40.0000000000003, 40.0000000000003) la id400(40.1000000000003, 40.1000000000003).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+246)Broscuta a sarit de la id400(40.1000000000003, 40.1000000000003) la id401(40.2000000000003, 40.2000000000003).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+247)Broscuta a sarit de la id401(40.2000000000003, 40.2000000000003) la id402(40.3000000000003, 40.3000000000003).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+248)Broscuta a sarit de la id402(40.3000000000003, 40.3000000000003) la id403(40.400000000000304, 40.400000000000304).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+249)Broscuta a sarit de la id403(40.400000000000304, 40.400000000000304) la id404(40.500000000000306, 40.500000000000306).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+250)Broscuta a sarit de la id404(40.500000000000306, 40.500000000000306) la id405(40.60000000000031, 40.60000000000031).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+251)Broscuta a sarit de la id405(40.60000000000031, 40.60000000000031) la id406(40.70000000000031, 40.70000000000031).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+252)Broscuta a sarit de la id406(40.70000000000031, 40.70000000000031) la id407(40.80000000000031, 40.80000000000031).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+253)Broscuta a sarit de la id407(40.80000000000031, 40.80000000000031) la id408(40.90000000000031, 40.90000000000031).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+254)Broscuta a sarit de la id408(40.90000000000031, 40.90000000000031) la id409(41.00000000000031, 41.00000000000031).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+255)Broscuta a sarit de la id409(41.00000000000031, 41.00000000000031) la id410(41.100000000000314, 41.100000000000314).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+256)Broscuta a sarit de la id410(41.100000000000314, 41.100000000000314) la id411(41.200000000000315, 41.200000000000315).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+257)Broscuta a sarit de la id411(41.200000000000315, 41.200000000000315) la id412(41.30000000000032, 41.30000000000032).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+258)Broscuta a sarit de la id412(41.30000000000032, 41.30000000000032) la id413(41.40000000000032, 41.40000000000032).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+259)Broscuta a sarit de la id413(41.40000000000032, 41.40000000000032) la id414(41.50000000000032, 41.50000000000032).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+260)Broscuta a sarit de la id414(41.50000000000032, 41.50000000000032) la id415(41.60000000000032, 41.60000000000032).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+261)Broscuta a sarit de la id415(41.60000000000032, 41.60000000000032) la id416(41.70000000000032, 41.70000000000032).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+262)Broscuta a sarit de la id416(41.70000000000032, 41.70000000000032) la id417(41.800000000000324, 41.800000000000324).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+263)Broscuta a sarit de la id417(41.800000000000324, 41.800000000000324) la id418(41.900000000000325, 41.900000000000325).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+264)Broscuta a sarit de la id418(41.900000000000325, 41.900000000000325) la id419(42.00000000000033, 42.00000000000033).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+265)Broscuta a sarit de la id419(42.00000000000033, 42.00000000000033) la id420(42.10000000000033, 42.10000000000033).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+266)Broscuta a sarit de la id420(42.10000000000033, 42.10000000000033) la id421(42.20000000000033, 42.20000000000033).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+267)Broscuta a sarit de la id421(42.20000000000033, 42.20000000000033) la id422(42.30000000000033, 42.30000000000033).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+268)Broscuta a sarit de la id422(42.30000000000033, 42.30000000000033) la id423(42.40000000000033, 42.40000000000033).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+269)Broscuta a sarit de la id423(42.40000000000033, 42.40000000000033) la id424(42.500000000000334, 42.500000000000334).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+270)Broscuta a sarit de la id424(42.500000000000334, 42.500000000000334) la id425(42.600000000000335, 42.600000000000335).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+271)Broscuta a sarit de la id425(42.600000000000335, 42.600000000000335) la id426(42.70000000000034, 42.70000000000034).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+272)Broscuta a sarit de la id426(42.70000000000034, 42.70000000000034) la id427(42.80000000000034, 42.80000000000034).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+273)Broscuta a sarit de la id427(42.80000000000034, 42.80000000000034) la id428(42.90000000000034, 42.90000000000034).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+274)Broscuta a sarit de la id428(42.90000000000034, 42.90000000000034) la id429(43.00000000000034, 43.00000000000034).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+275)Broscuta a sarit de la id429(43.00000000000034, 43.00000000000034) la id430(43.10000000000034, 43.10000000000034).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+276)Broscuta a sarit de la id430(43.10000000000034, 43.10000000000034) la id431(43.200000000000344, 43.200000000000344).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+277)Broscuta a sarit de la id431(43.200000000000344, 43.200000000000344) la id432(43.300000000000345, 43.300000000000345).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+278)Broscuta a sarit de la id432(43.300000000000345, 43.300000000000345) la id433(43.40000000000035, 43.40000000000035).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+279)Broscuta a sarit de la id433(43.40000000000035, 43.40000000000035) la id434(43.50000000000035, 43.50000000000035).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+280)Broscuta a sarit de la id434(43.50000000000035, 43.50000000000035) la id435(43.60000000000035, 43.60000000000035).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+281)Broscuta a sarit de la id435(43.60000000000035, 43.60000000000035) la id436(43.70000000000035, 43.70000000000035).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+282)Broscuta a sarit de la id436(43.70000000000035, 43.70000000000035) la id437(43.80000000000035, 43.80000000000035).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+283)Broscuta a sarit de la id437(43.80000000000035, 43.80000000000035) la id438(43.900000000000354, 43.900000000000354).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+284)Broscuta a sarit de la id438(43.900000000000354, 43.900000000000354) la id439(44.000000000000355, 44.000000000000355).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+285)Broscuta a sarit de la id439(44.000000000000355, 44.000000000000355) la id440(44.10000000000036, 44.10000000000036).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+286)Broscuta a sarit de la id440(44.10000000000036, 44.10000000000036) la id441(44.20000000000036, 44.20000000000036).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+287)Broscuta a sarit de la id441(44.20000000000036, 44.20000000000036) la id442(44.30000000000036, 44.30000000000036).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+288)Broscuta a sarit de la id442(44.30000000000036, 44.30000000000036) la id443(44.40000000000036, 44.40000000000036).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+289)Broscuta a sarit de la id443(44.40000000000036, 44.40000000000036) la id444(44.50000000000036, 44.50000000000036).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+290)Broscuta a sarit de la id444(44.50000000000036, 44.50000000000036) la id445(44.600000000000364, 44.600000000000364).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+291)Broscuta a sarit de la id445(44.600000000000364, 44.600000000000364) la id446(44.700000000000365, 44.700000000000365).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+292)Broscuta a sarit de la id446(44.700000000000365, 44.700000000000365) la id447(44.80000000000037, 44.80000000000037).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+293)Broscuta a sarit de la id447(44.80000000000037, 44.80000000000037) la id448(44.90000000000037, 44.90000000000037).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+294)Broscuta a sarit de la id448(44.90000000000037, 44.90000000000037) la id449(45.00000000000037, 45.00000000000037).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+295)Broscuta a sarit de la id449(45.00000000000037, 45.00000000000037) la id450(45.10000000000037, 45.10000000000037).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+296)Broscuta a sarit de la id450(45.10000000000037, 45.10000000000037) la id451(45.20000000000037, 45.20000000000037).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+297)Broscuta a sarit de la id451(45.20000000000037, 45.20000000000037) la id452(45.300000000000374, 45.300000000000374).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+298)Broscuta a sarit de la id452(45.300000000000374, 45.300000000000374) la id455(45.60000000000038, 45.60000000000038).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+299)Broscuta a sarit de la id455(45.60000000000038, 45.60000000000038) la id457(45.80000000000038, 45.80000000000038).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+300)Broscuta a sarit de la id457(45.80000000000038, 45.80000000000038) la id459(46.000000000000384, 46.000000000000384).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+301)Broscuta a sarit de la id459(46.000000000000384, 46.000000000000384) la id461(46.20000000000039, 46.20000000000039).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+302)Broscuta a sarit de la id461(46.20000000000039, 46.20000000000039) la id463(46.40000000000039, 46.40000000000039).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+303)Broscuta a sarit de la id463(46.40000000000039, 46.40000000000039) la id465(46.60000000000039, 46.60000000000039).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+304)Broscuta a sarit de la id465(46.60000000000039, 46.60000000000039) la id467(46.800000000000395, 46.800000000000395).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+305)Broscuta a sarit de la id467(46.800000000000395, 46.800000000000395) la id469(47.0000000000004, 47.0000000000004).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+306)Broscuta a sarit de la id469(47.0000000000004, 47.0000000000004) la id471(47.2000000000004, 47.2000000000004).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+307)Broscuta a sarit de la id471(47.2000000000004, 47.2000000000004) la id473(47.400000000000404, 47.400000000000404).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+308)Broscuta a sarit de la id473(47.400000000000404, 47.400000000000404) la id475(47.600000000000406, 47.600000000000406).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+309)Broscuta a sarit de la id475(47.600000000000406, 47.600000000000406) la id477(47.80000000000041, 47.80000000000041).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+310)Broscuta a sarit de la id477(47.80000000000041, 47.80000000000041) la id479(48.00000000000041, 48.00000000000041).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+311)Broscuta a sarit de la id479(48.00000000000041, 48.00000000000041) la id481(48.200000000000415, 48.200000000000415).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+312)Broscuta a sarit de la id481(48.200000000000415, 48.200000000000415) la id483(48.40000000000042, 48.40000000000042).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+313)Broscuta a sarit de la id483(48.40000000000042, 48.40000000000042) la id485(48.60000000000042, 48.60000000000042).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+314)Broscuta a sarit de la id485(48.60000000000042, 48.60000000000042) la id487(48.80000000000042, 48.80000000000042).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+315)Broscuta a sarit de la id487(48.80000000000042, 48.80000000000042) la id489(49.000000000000426, 49.000000000000426).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+316)Broscuta a sarit de la id489(49.000000000000426, 49.000000000000426) la id491(49.20000000000043, 49.20000000000043).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+317)Broscuta a sarit de la id491(49.20000000000043, 49.20000000000043) la id493(49.40000000000043, 49.40000000000043).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+318)Broscuta a sarit de la id493(49.40000000000043, 49.40000000000043) la id495(49.600000000000435, 49.600000000000435).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+319)Broscuta a sarit de la id495(49.600000000000435, 49.600000000000435) la id497(49.80000000000044, 49.80000000000044).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+320)Broscuta a sarit de la id497(49.80000000000044, 49.80000000000044) la id499(50.00000000000044, 50.00000000000044).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+321)Broscuta a sarit de la id499(50.00000000000044, 50.00000000000044) la id501(50.20000000000044, 50.20000000000044).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+322)Broscuta a sarit de la id501(50.20000000000044, 50.20000000000044) la id503(50.400000000000446, 50.400000000000446).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+323)Broscuta a sarit de la id503(50.400000000000446, 50.400000000000446) la id505(50.60000000000045, 50.60000000000045).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+324)Broscuta a sarit de la id505(50.60000000000045, 50.60000000000045) la id507(50.80000000000045, 50.80000000000045).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+325)Broscuta a sarit de la id507(50.80000000000045, 50.80000000000045) la id509(51.000000000000455, 51.000000000000455).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+326)Broscuta a sarit de la id509(51.000000000000455, 51.000000000000455) la id511(51.20000000000046, 51.20000000000046).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+327)Broscuta a sarit de la id511(51.20000000000046, 51.20000000000046) la id513(51.40000000000046, 51.40000000000046).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+328)Broscuta a sarit de la id513(51.40000000000046, 51.40000000000046) la id515(51.60000000000046, 51.60000000000046).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+329)Broscuta a sarit de la id515(51.60000000000046, 51.60000000000046) la id517(51.800000000000466, 51.800000000000466).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+330)Broscuta a sarit de la id517(51.800000000000466, 51.800000000000466) la id519(52.00000000000047, 52.00000000000047).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+331)Broscuta a sarit de la id519(52.00000000000047, 52.00000000000047) la id521(52.20000000000047, 52.20000000000047).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+332)Broscuta a sarit de la id521(52.20000000000047, 52.20000000000047) la id523(52.400000000000475, 52.400000000000475).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+333)Broscuta a sarit de la id523(52.400000000000475, 52.400000000000475) la id525(52.60000000000048, 52.60000000000048).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+334)Broscuta a sarit de la id525(52.60000000000048, 52.60000000000048) la id527(52.80000000000048, 52.80000000000048).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+335)Broscuta a sarit de la id527(52.80000000000048, 52.80000000000048) la id529(53.00000000000048, 53.00000000000048).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+336)Broscuta a sarit de la id529(53.00000000000048, 53.00000000000048) la id531(53.200000000000486, 53.200000000000486).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+337)Broscuta a sarit de la id531(53.200000000000486, 53.200000000000486) la id533(53.40000000000049, 53.40000000000049).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+338)Broscuta a sarit de la id533(53.40000000000049, 53.40000000000049) la id535(53.60000000000049, 53.60000000000049).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+339)Broscuta a sarit de la id535(53.60000000000049, 53.60000000000049) la id537(53.800000000000495, 53.800000000000495).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+340)Broscuta a sarit de la id537(53.800000000000495, 53.800000000000495) la id539(54.0000000000005, 54.0000000000005).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+341)Broscuta a sarit de la id539(54.0000000000005, 54.0000000000005) la id541(54.2000000000005, 54.2000000000005).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+342)Broscuta a sarit de la id541(54.2000000000005, 54.2000000000005) la id543(54.4000000000005, 54.4000000000005).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+343)Broscuta a sarit de la id543(54.4000000000005, 54.4000000000005) la id545(54.600000000000506, 54.600000000000506).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+344)Broscuta a sarit de la id545(54.600000000000506, 54.600000000000506) la id547(54.80000000000051, 54.80000000000051).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+345)Broscuta a sarit de la id547(54.80000000000051, 54.80000000000051) la id549(55.00000000000051, 55.00000000000051).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+346)Broscuta a sarit de la id549(55.00000000000051, 55.00000000000051) la id551(55.200000000000514, 55.200000000000514).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+347)Broscuta a sarit de la id551(55.200000000000514, 55.200000000000514) la id553(55.40000000000052, 55.40000000000052).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+348)Broscuta a sarit de la id553(55.40000000000052, 55.40000000000052) la id555(55.60000000000052, 55.60000000000052).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+349)Broscuta a sarit de la id555(55.60000000000052, 55.60000000000052) la id557(55.80000000000052, 55.80000000000052).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+350)Broscuta a sarit de la id557(55.80000000000052, 55.80000000000052) la id559(56.000000000000526, 56.000000000000526).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+351)Broscuta a sarit de la id559(56.000000000000526, 56.000000000000526) la id561(56.20000000000053, 56.20000000000053).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+352)Broscuta a sarit de la id561(56.20000000000053, 56.20000000000053) la id563(56.40000000000053, 56.40000000000053).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+353)Broscuta a sarit de la id563(56.40000000000053, 56.40000000000053) la id565(56.600000000000534, 56.600000000000534).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+354)Broscuta a sarit de la id565(56.600000000000534, 56.600000000000534) la id567(56.80000000000054, 56.80000000000054).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+355)Broscuta a sarit de la id567(56.80000000000054, 56.80000000000054) la id569(57.00000000000054, 57.00000000000054).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+356)Broscuta a sarit de la id569(57.00000000000054, 57.00000000000054) la id571(57.20000000000054, 57.20000000000054).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+357)Broscuta a sarit de la id571(57.20000000000054, 57.20000000000054) la id573(57.400000000000546, 57.400000000000546).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+358)Broscuta a sarit de la id573(57.400000000000546, 57.400000000000546) la id575(57.60000000000055, 57.60000000000055).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+359)Broscuta a sarit de la id575(57.60000000000055, 57.60000000000055) la id577(57.80000000000055, 57.80000000000055).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+360)Broscuta a sarit de la id577(57.80000000000055, 57.80000000000055) la id579(58.000000000000554, 58.000000000000554).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+361)Broscuta a sarit de la id579(58.000000000000554, 58.000000000000554) la id581(58.20000000000056, 58.20000000000056).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+362)Broscuta a sarit de la id581(58.20000000000056, 58.20000000000056) la id583(58.40000000000056, 58.40000000000056).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+363)Broscuta a sarit de la id583(58.40000000000056, 58.40000000000056) la id585(58.60000000000056, 58.60000000000056).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+364)Broscuta a sarit de la id585(58.60000000000056, 58.60000000000056) la id587(58.800000000000566, 58.800000000000566).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+365)Broscuta a sarit de la id587(58.800000000000566, 58.800000000000566) la id589(59.00000000000057, 59.00000000000057).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+366)Broscuta a sarit de la id589(59.00000000000057, 59.00000000000057) la id591(59.20000000000057, 59.20000000000057).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+367)Broscuta a sarit de la id591(59.20000000000057, 59.20000000000057) la id593(59.400000000000574, 59.400000000000574).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+368)Broscuta a sarit de la id593(59.400000000000574, 59.400000000000574) la id595(59.60000000000058, 59.60000000000058).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+369)Broscuta a sarit de la id595(59.60000000000058, 59.60000000000058) la id597(59.80000000000058, 59.80000000000058).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+370)Broscuta a sarit de la id597(59.80000000000058, 59.80000000000058) la id599(60.00000000000058, 60.00000000000058).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+371)Broscuta a sarit de la id599(60.00000000000058, 60.00000000000058) la id601(60.200000000000585, 60.200000000000585).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+372)Broscuta a sarit de la id601(60.200000000000585, 60.200000000000585) la id603(60.40000000000059, 60.40000000000059).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+373)Broscuta a sarit de la id603(60.40000000000059, 60.40000000000059) la id605(60.60000000000059, 60.60000000000059).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+374)Broscuta a sarit de la id605(60.60000000000059, 60.60000000000059) la id607(60.800000000000594, 60.800000000000594).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+375)Broscuta a sarit de la id607(60.800000000000594, 60.800000000000594) la id609(61.0000000000006, 61.0000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+376)Broscuta a sarit de la id609(61.0000000000006, 61.0000000000006) la id611(61.2000000000006, 61.2000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+377)Broscuta a sarit de la id611(61.2000000000006, 61.2000000000006) la id613(61.4000000000006, 61.4000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+378)Broscuta a sarit de la id613(61.4000000000006, 61.4000000000006) la id615(61.600000000000605, 61.600000000000605).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+379)Broscuta a sarit de la id615(61.600000000000605, 61.600000000000605) la id617(61.80000000000061, 61.80000000000061).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+380)Broscuta a sarit de la id617(61.80000000000061, 61.80000000000061) la id619(62.00000000000061, 62.00000000000061).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+381)Broscuta a sarit de la id619(62.00000000000061, 62.00000000000061) la id621(62.200000000000614, 62.200000000000614).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+382)Broscuta a sarit de la id621(62.200000000000614, 62.200000000000614) la id623(62.40000000000062, 62.40000000000062).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+383)Broscuta a sarit de la id623(62.40000000000062, 62.40000000000062) la id625(62.60000000000062, 62.60000000000062).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+384)Broscuta a sarit de la id625(62.60000000000062, 62.60000000000062) la id627(62.80000000000062, 62.80000000000062).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+385)Broscuta a sarit de la id627(62.80000000000062, 62.80000000000062) la id629(63.000000000000625, 63.000000000000625).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+386)Broscuta a sarit de la id629(63.000000000000625, 63.000000000000625) la id631(63.20000000000063, 63.20000000000063).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+387)Broscuta a sarit de la id631(63.20000000000063, 63.20000000000063) la id633(63.40000000000063, 63.40000000000063).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+388)Broscuta a sarit de la id633(63.40000000000063, 63.40000000000063) la id635(63.600000000000634, 63.600000000000634).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+389)Broscuta a sarit de la id635(63.600000000000634, 63.600000000000634) la id637(63.80000000000064, 63.80000000000064).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+390)Broscuta a sarit de la id637(63.80000000000064, 63.80000000000064) la id639(64.00000000000064, 64.00000000000064).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+391)Broscuta a sarit de la id639(64.00000000000064, 64.00000000000064) la id650(65.10000000000058, 65.10000000000058).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+392)Broscuta a sarit de la id650(65.10000000000058, 65.10000000000058) la id661(66.20000000000051, 66.20000000000051).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+393)Broscuta a sarit de la id661(66.20000000000051, 66.20000000000051) la id672(67.30000000000045, 67.30000000000045).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+394)Broscuta a sarit de la id672(67.30000000000045, 67.30000000000045) la id683(68.40000000000039, 68.40000000000039).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+395)Broscuta a sarit de la id683(68.40000000000039, 68.40000000000039) la id694(69.50000000000033, 69.50000000000033).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+396)Broscuta a sarit de la id694(69.50000000000033, 69.50000000000033) la id705(70.60000000000026, 70.60000000000026).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+397)Broscuta a sarit de la id705(70.60000000000026, 70.60000000000026) la id716(71.7000000000002, 71.7000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+398)Broscuta a sarit de la id716(71.7000000000002, 71.7000000000002) la id727(72.80000000000014, 72.80000000000014).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+399)Broscuta a sarit de la id727(72.80000000000014, 72.80000000000014) la id738(73.90000000000008, 73.90000000000008).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+400)Broscuta a sarit de la id738(73.90000000000008, 73.90000000000008) la id749(75.00000000000001, 75.00000000000001).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+401)Broscuta a sarit de la id749(75.00000000000001, 75.00000000000001) la id760(76.09999999999995, 76.09999999999995).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+402)Broscuta a sarit de la id760(76.09999999999995, 76.09999999999995) la id771(77.19999999999989, 77.19999999999989).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+403)Broscuta a sarit de la id771(77.19999999999989, 77.19999999999989) la id782(78.29999999999983, 78.29999999999983).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+404)Broscuta a sarit de la id782(78.29999999999983, 78.29999999999983) la id793(79.39999999999976, 79.39999999999976).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+405)Broscuta a sarit de la id793(79.39999999999976, 79.39999999999976) la id804(80.4999999999997, 80.4999999999997).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+406)Broscuta a sarit de la id804(80.4999999999997, 80.4999999999997) la id815(81.59999999999964, 81.59999999999964).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+407)Broscuta a sarit de la id815(81.59999999999964, 81.59999999999964) la id826(82.69999999999958, 82.69999999999958).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+408)Broscuta a sarit de la id826(82.69999999999958, 82.69999999999958) la id837(83.79999999999951, 83.79999999999951).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+409)Broscuta a sarit de la id837(83.79999999999951, 83.79999999999951) la id848(84.89999999999945, 84.89999999999945).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+410)Broscuta a sarit de la id848(84.89999999999945, 84.89999999999945) la id859(85.99999999999939, 85.99999999999939).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+411)Broscuta a sarit de la id859(85.99999999999939, 85.99999999999939) la id870(87.09999999999933, 87.09999999999933).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+412)Broscuta a sarit de la id870(87.09999999999933, 87.09999999999933) la id881(88.19999999999926, 88.19999999999926).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+413)Broscuta a sarit de la id881(88.19999999999926, 88.19999999999926) la id892(89.2999999999992, 89.2999999999992).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+414)Broscuta a sarit de la id892(89.2999999999992, 89.2999999999992) la id903(90.39999999999914, 90.39999999999914).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+415)Broscuta a sarit de la id903(90.39999999999914, 90.39999999999914) la id906(90.69999999999912, 90.69999999999912).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+416)Broscuta a sarit de la id906(90.69999999999912, 90.69999999999912) la id907(90.79999999999912, 90.79999999999912).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+417)Broscuta a sarit de la id907(90.79999999999912, 90.79999999999912) la id908(90.89999999999911, 90.89999999999911).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+418)Broscuta a sarit de la id908(90.89999999999911, 90.89999999999911) la id909(90.9999999999991, 90.9999999999991).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+419)Broscuta a sarit de la id909(90.9999999999991, 90.9999999999991) la id910(91.0999999999991, 91.0999999999991).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+420)Broscuta a sarit de la id910(91.0999999999991, 91.0999999999991) la id911(91.1999999999991, 91.1999999999991).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+421)Broscuta a sarit de la id911(91.1999999999991, 91.1999999999991) la id912(91.29999999999909, 91.29999999999909).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+422)Broscuta a sarit de la id912(91.29999999999909, 91.29999999999909) la id913(91.39999999999908, 91.39999999999908).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+423)Broscuta a sarit de la id913(91.39999999999908, 91.39999999999908) la id914(91.49999999999908, 91.49999999999908).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+424)Broscuta a sarit de la id914(91.49999999999908, 91.49999999999908) la id915(91.59999999999907, 91.59999999999907).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+425)Broscuta a sarit de la id915(91.59999999999907, 91.59999999999907) la id916(91.69999999999906, 91.69999999999906).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+426)Broscuta a sarit de la id916(91.69999999999906, 91.69999999999906) la id917(91.79999999999906, 91.79999999999906).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+427)Broscuta a sarit de la id917(91.79999999999906, 91.79999999999906) la id918(91.89999999999905, 91.89999999999905).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+428)Broscuta a sarit de la id918(91.89999999999905, 91.89999999999905) la id919(91.99999999999905, 91.99999999999905).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+429)Broscuta a sarit de la id919(91.99999999999905, 91.99999999999905) la id920(92.09999999999904, 92.09999999999904).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+430)Broscuta a sarit de la id920(92.09999999999904, 92.09999999999904) la id921(92.19999999999904, 92.19999999999904).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+431)Broscuta a sarit de la id921(92.19999999999904, 92.19999999999904) la id922(92.29999999999903, 92.29999999999903).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+432)Broscuta a sarit de la id922(92.29999999999903, 92.29999999999903) la id923(92.39999999999903, 92.39999999999903).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+433)Broscuta a sarit de la id923(92.39999999999903, 92.39999999999903) la id924(92.49999999999902, 92.49999999999902).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+434)Broscuta a sarit de la id924(92.49999999999902, 92.49999999999902) la id925(92.59999999999901, 92.59999999999901).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+435)Broscuta a sarit de la id925(92.59999999999901, 92.59999999999901) la id926(92.69999999999901, 92.69999999999901).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+436)Broscuta a sarit de la id926(92.69999999999901, 92.69999999999901) la id927(92.799999999999, 92.799999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+437)Broscuta a sarit de la id927(92.799999999999, 92.799999999999) la id928(92.899999999999, 92.899999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+438)Broscuta a sarit de la id928(92.899999999999, 92.899999999999) la id929(92.99999999999899, 92.99999999999899).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+439)Broscuta a sarit de la id929(92.99999999999899, 92.99999999999899) la id930(93.09999999999899, 93.09999999999899).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+440)Broscuta a sarit de la id930(93.09999999999899, 93.09999999999899) la id931(93.19999999999898, 93.19999999999898).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+441)Broscuta a sarit de la id931(93.19999999999898, 93.19999999999898) la id932(93.29999999999897, 93.29999999999897).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+442)Broscuta a sarit de la id932(93.29999999999897, 93.29999999999897) la id933(93.39999999999897, 93.39999999999897).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+443)Broscuta a sarit de la id933(93.39999999999897, 93.39999999999897) la id934(93.49999999999896, 93.49999999999896).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+444)Broscuta a sarit de la id934(93.49999999999896, 93.49999999999896) la id935(93.59999999999896, 93.59999999999896).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+445)Broscuta a sarit de la id935(93.59999999999896, 93.59999999999896) la id936(93.69999999999895, 93.69999999999895).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+446)Broscuta a sarit de la id936(93.69999999999895, 93.69999999999895) la id937(93.79999999999895, 93.79999999999895).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+447)Broscuta a sarit de la id937(93.79999999999895, 93.79999999999895) la id938(93.89999999999894, 93.89999999999894).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+448)Broscuta a sarit de la id938(93.89999999999894, 93.89999999999894) la id939(93.99999999999893, 93.99999999999893).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+449)Broscuta a sarit de la id939(93.99999999999893, 93.99999999999893) la id940(94.09999999999893, 94.09999999999893).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+450)Broscuta a sarit de la id940(94.09999999999893, 94.09999999999893) la id941(94.19999999999892, 94.19999999999892).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+451)Broscuta a sarit de la id941(94.19999999999892, 94.19999999999892) la id942(94.29999999999892, 94.29999999999892).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+452)Broscuta a sarit de la id942(94.29999999999892, 94.29999999999892) la id943(94.39999999999891, 94.39999999999891).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+453)Broscuta a sarit de la id943(94.39999999999891, 94.39999999999891) la id944(94.4999999999989, 94.4999999999989).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+454)Broscuta a sarit de la id944(94.4999999999989, 94.4999999999989) la id945(94.5999999999989, 94.5999999999989).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+455)Broscuta a sarit de la id945(94.5999999999989, 94.5999999999989) la id946(94.6999999999989, 94.6999999999989).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+456)Broscuta a sarit de la id946(94.6999999999989, 94.6999999999989) la id947(94.79999999999889, 94.79999999999889).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+457)Broscuta a sarit de la id947(94.79999999999889, 94.79999999999889) la id948(94.89999999999888, 94.89999999999888).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+458)Broscuta a sarit de la id948(94.89999999999888, 94.89999999999888) la id949(94.99999999999888, 94.99999999999888).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+459)Broscuta a sarit de la id949(94.99999999999888, 94.99999999999888) la id950(95.09999999999887, 95.09999999999887).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+460)Broscuta a sarit de la id950(95.09999999999887, 95.09999999999887) la id951(95.19999999999887, 95.19999999999887).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+461)Broscuta a sarit de la id951(95.19999999999887, 95.19999999999887) la id952(95.29999999999886, 95.29999999999886).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+462)Broscuta a sarit de la id952(95.29999999999886, 95.29999999999886) la id953(95.39999999999885, 95.39999999999885).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+463)Broscuta a sarit de la id953(95.39999999999885, 95.39999999999885) la id954(95.49999999999885, 95.49999999999885).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+464)Broscuta a sarit de la id954(95.49999999999885, 95.49999999999885) la id955(95.59999999999884, 95.59999999999884).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+465)Broscuta a sarit de la id955(95.59999999999884, 95.59999999999884) la id956(95.69999999999884, 95.69999999999884).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+466)Broscuta a sarit de la id956(95.69999999999884, 95.69999999999884) la id957(95.79999999999883, 95.79999999999883).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+467)Broscuta a sarit de la id957(95.79999999999883, 95.79999999999883) la id958(95.89999999999883, 95.89999999999883).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+468)Broscuta a sarit de la id958(95.89999999999883, 95.89999999999883) la id959(95.99999999999882, 95.99999999999882).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+469)Broscuta a sarit de la id959(95.99999999999882, 95.99999999999882) la id960(96.09999999999881, 96.09999999999881).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+470)Broscuta a sarit de la id960(96.09999999999881, 96.09999999999881) la id961(96.19999999999881, 96.19999999999881).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+471)Broscuta a sarit de la id961(96.19999999999881, 96.19999999999881) la id962(96.2999999999988, 96.2999999999988).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+472)Broscuta a sarit de la id962(96.2999999999988, 96.2999999999988) la id963(96.3999999999988, 96.3999999999988).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+473)Broscuta a sarit de la id963(96.3999999999988, 96.3999999999988) la id964(96.49999999999879, 96.49999999999879).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+474)Broscuta a sarit de la id964(96.49999999999879, 96.49999999999879) la id965(96.59999999999879, 96.59999999999879).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+475)Broscuta a sarit de la id965(96.59999999999879, 96.59999999999879) la id966(96.69999999999878, 96.69999999999878).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+476)Broscuta a sarit de la id966(96.69999999999878, 96.69999999999878) la id967(96.79999999999878, 96.79999999999878).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+477)Broscuta a sarit de la id967(96.79999999999878, 96.79999999999878) la id968(96.89999999999877, 96.89999999999877).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+478)Broscuta a sarit de la id968(96.89999999999877, 96.89999999999877) la id969(96.99999999999876, 96.99999999999876).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+479)Broscuta a sarit de la id969(96.99999999999876, 96.99999999999876) la id970(97.09999999999876, 97.09999999999876).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+480)Broscuta a sarit de la id970(97.09999999999876, 97.09999999999876) la id971(97.19999999999875, 97.19999999999875).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+481)Broscuta a sarit de la id971(97.19999999999875, 97.19999999999875) la id972(97.29999999999875, 97.29999999999875).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+482)Broscuta a sarit de la id972(97.29999999999875, 97.29999999999875) la id973(97.39999999999874, 97.39999999999874).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+483)Broscuta a sarit de la id973(97.39999999999874, 97.39999999999874) la id974(97.49999999999874, 97.49999999999874).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+484)Broscuta a sarit de la id974(97.49999999999874, 97.49999999999874) la id975(97.59999999999873, 97.59999999999873).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+485)Broscuta a sarit de la id975(97.59999999999873, 97.59999999999873) la id976(97.69999999999872, 97.69999999999872).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+486)Broscuta a sarit de la id976(97.69999999999872, 97.69999999999872) la id977(97.79999999999872, 97.79999999999872).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+487)Broscuta a sarit de la id977(97.79999999999872, 97.79999999999872) la id978(97.89999999999871, 97.89999999999871).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+488)Broscuta a sarit de la id978(97.89999999999871, 97.89999999999871) la id979(97.9999999999987, 97.9999999999987).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+489)Broscuta a sarit de la id979(97.9999999999987, 97.9999999999987) la id980(98.0999999999987, 98.0999999999987).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+490)Broscuta a sarit de la id980(98.0999999999987, 98.0999999999987) la id981(98.1999999999987, 98.1999999999987).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+491)Broscuta a sarit de la id981(98.1999999999987, 98.1999999999987) la id982(98.29999999999869, 98.29999999999869).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+492)Broscuta a sarit de la id982(98.29999999999869, 98.29999999999869) la id983(98.39999999999868, 98.39999999999868).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+493)Broscuta a sarit de la id983(98.39999999999868, 98.39999999999868) la id984(98.49999999999868, 98.49999999999868).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+494)Broscuta a sarit de la id984(98.49999999999868, 98.49999999999868) la id985(98.59999999999867, 98.59999999999867).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+495)Broscuta a sarit de la id985(98.59999999999867, 98.59999999999867) la id986(98.69999999999867, 98.69999999999867).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+496)Broscuta a sarit de la id986(98.69999999999867, 98.69999999999867) la id987(98.79999999999866, 98.79999999999866).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+497)Broscuta a sarit de la id987(98.79999999999866, 98.79999999999866) la id988(98.89999999999866, 98.89999999999866).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+498)Broscuta a sarit de la id988(98.89999999999866, 98.89999999999866) la id989(98.99999999999865, 98.99999999999865).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+499)Broscuta a sarit de la id989(98.99999999999865, 98.99999999999865) la id990(99.09999999999864, 99.09999999999864).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+500)Broscuta a sarit de la id990(99.09999999999864, 99.09999999999864) la id999(100.0, 100.0).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+501)Broscuta a ajuns la mal in 500 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id0.
+Greutate broscuta: 8
+2)Broscuta a sarit de la id0(0.1, 0.1) la id11(1.2, 1.2).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+3)Broscuta a sarit de la id11(1.2, 1.2) la id28(2.9000000000000012, 2.9000000000000012).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+4)Broscuta a sarit de la id28(2.9000000000000012, 2.9000000000000012) la id36(3.700000000000002, 3.700000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+5)Broscuta a sarit de la id36(3.700000000000002, 3.700000000000002) la id48(4.899999999999999, 4.899999999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+6)Broscuta a sarit de la id48(4.899999999999999, 4.899999999999999) la id64(6.499999999999993, 6.499999999999993).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+7)Broscuta a sarit de la id64(6.499999999999993, 6.499999999999993) la id80(8.099999999999987, 8.099999999999987).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+8)Broscuta a sarit de la id80(8.099999999999987, 8.099999999999987) la id91(9.199999999999983, 9.199999999999983).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+9)Broscuta a sarit de la id91(9.199999999999983, 9.199999999999983) la id108(10.899999999999977, 10.899999999999977).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+10)Broscuta a sarit de la id108(10.899999999999977, 10.899999999999977) la id126(12.69999999999997, 12.69999999999997).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+11)Broscuta a sarit de la id126(12.69999999999997, 12.69999999999997) la id144(14.499999999999964, 14.499999999999964).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+12)Broscuta a sarit de la id144(14.499999999999964, 14.499999999999964) la id160(16.09999999999996, 16.09999999999996).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+13)Broscuta a sarit de la id160(16.09999999999996, 16.09999999999996) la id177(17.799999999999983, 17.799999999999983).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+14)Broscuta a sarit de la id177(17.799999999999983, 17.799999999999983) la id195(19.60000000000001, 19.60000000000001).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+15)Broscuta a sarit de la id195(19.60000000000001, 19.60000000000001) la id213(21.400000000000034, 21.400000000000034).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+16)Broscuta a sarit de la id213(21.400000000000034, 21.400000000000034) la id220(22.100000000000044, 22.100000000000044).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+17)Broscuta a sarit de la id220(22.100000000000044, 22.100000000000044) la id237(23.800000000000068, 23.800000000000068).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+18)Broscuta a sarit de la id237(23.800000000000068, 23.800000000000068) la id240(24.100000000000072, 24.100000000000072).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+19)Broscuta a sarit de la id240(24.100000000000072, 24.100000000000072) la id257(25.800000000000097, 25.800000000000097).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+20)Broscuta a sarit de la id257(25.800000000000097, 25.800000000000097) la id272(27.300000000000118, 27.300000000000118).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+21)Broscuta a sarit de la id272(27.300000000000118, 27.300000000000118) la id289(29.000000000000142, 29.000000000000142).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+22)Broscuta a sarit de la id289(29.000000000000142, 29.000000000000142) la id304(30.500000000000163, 30.500000000000163).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+23)Broscuta a sarit de la id304(30.500000000000163, 30.500000000000163) la id320(32.100000000000186, 32.100000000000186).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+24)Broscuta a sarit de la id320(32.100000000000186, 32.100000000000186) la id336(33.70000000000021, 33.70000000000021).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+25)Broscuta a sarit de la id336(33.70000000000021, 33.70000000000021) la id353(35.40000000000023, 35.40000000000023).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+26)Broscuta a sarit de la id353(35.40000000000023, 35.40000000000023) la id370(37.10000000000026, 37.10000000000026).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+27)Broscuta a sarit de la id370(37.10000000000026, 37.10000000000026) la id388(38.90000000000028, 38.90000000000028).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+28)Broscuta a sarit de la id388(38.90000000000028, 38.90000000000028) la id406(40.70000000000031, 40.70000000000031).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+29)Broscuta a sarit de la id406(40.70000000000031, 40.70000000000031) la id423(42.40000000000033, 42.40000000000033).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+30)Broscuta a sarit de la id423(42.40000000000033, 42.40000000000033) la id441(44.20000000000036, 44.20000000000036).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+31)Broscuta a sarit de la id441(44.20000000000036, 44.20000000000036) la id459(46.000000000000384, 46.000000000000384).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+32)Broscuta a sarit de la id459(46.000000000000384, 46.000000000000384) la id476(47.70000000000041, 47.70000000000041).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+33)Broscuta a sarit de la id476(47.70000000000041, 47.70000000000041) la id494(49.50000000000043, 49.50000000000043).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+34)Broscuta a sarit de la id494(49.50000000000043, 49.50000000000043) la id511(51.20000000000046, 51.20000000000046).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+35)Broscuta a sarit de la id511(51.20000000000046, 51.20000000000046) la id529(53.00000000000048, 53.00000000000048).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+36)Broscuta a sarit de la id529(53.00000000000048, 53.00000000000048) la id546(54.70000000000051, 54.70000000000051).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+37)Broscuta a sarit de la id546(54.70000000000051, 54.70000000000051) la id564(56.50000000000053, 56.50000000000053).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+38)Broscuta a sarit de la id564(56.50000000000053, 56.50000000000053) la id582(58.30000000000056, 58.30000000000056).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+39)Broscuta a sarit de la id582(58.30000000000056, 58.30000000000056) la id600(60.100000000000584, 60.100000000000584).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+40)Broscuta a sarit de la id600(60.100000000000584, 60.100000000000584) la id617(61.80000000000061, 61.80000000000061).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+41)Broscuta a sarit de la id617(61.80000000000061, 61.80000000000061) la id635(63.600000000000634, 63.600000000000634).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+42)Broscuta a sarit de la id635(63.600000000000634, 63.600000000000634) la id653(65.40000000000056, 65.40000000000056).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+43)Broscuta a sarit de la id653(65.40000000000056, 65.40000000000056) la id671(67.20000000000046, 67.20000000000046).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+44)Broscuta a sarit de la id671(67.20000000000046, 67.20000000000046) la id689(69.00000000000036, 69.00000000000036).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+45)Broscuta a sarit de la id689(69.00000000000036, 69.00000000000036) la id707(70.80000000000025, 70.80000000000025).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+46)Broscuta a sarit de la id707(70.80000000000025, 70.80000000000025) la id725(72.60000000000015, 72.60000000000015).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+47)Broscuta a sarit de la id725(72.60000000000015, 72.60000000000015) la id743(74.40000000000005, 74.40000000000005).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+48)Broscuta a sarit de la id743(74.40000000000005, 74.40000000000005) la id761(76.19999999999995, 76.19999999999995).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+49)Broscuta a sarit de la id761(76.19999999999995, 76.19999999999995) la id779(77.99999999999984, 77.99999999999984).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+50)Broscuta a sarit de la id779(77.99999999999984, 77.99999999999984) la id797(79.79999999999974, 79.79999999999974).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+51)Broscuta a sarit de la id797(79.79999999999974, 79.79999999999974) la id815(81.59999999999964, 81.59999999999964).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+52)Broscuta a sarit de la id815(81.59999999999964, 81.59999999999964) la id833(83.39999999999954, 83.39999999999954).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+53)Broscuta a sarit de la id833(83.39999999999954, 83.39999999999954) la id851(85.19999999999943, 85.19999999999943).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+54)Broscuta a sarit de la id851(85.19999999999943, 85.19999999999943) la id865(86.59999999999935, 86.59999999999935).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+55)Broscuta a sarit de la id865(86.59999999999935, 86.59999999999935) la id883(88.39999999999925, 88.39999999999925).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+56)Broscuta a sarit de la id883(88.39999999999925, 88.39999999999925) la id901(90.19999999999915, 90.19999999999915).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+57)Broscuta a sarit de la id901(90.19999999999915, 90.19999999999915) la id919(91.99999999999905, 91.99999999999905).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+58)Broscuta a sarit de la id919(91.99999999999905, 91.99999999999905) la id936(93.69999999999895, 93.69999999999895).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+59)Broscuta a sarit de la id936(93.69999999999895, 93.69999999999895) la id954(95.49999999999885, 95.49999999999885).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+60)Broscuta a sarit de la id954(95.49999999999885, 95.49999999999885) la id971(97.19999999999875, 97.19999999999875).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+61)Broscuta a sarit de la id971(97.19999999999875, 97.19999999999875) la id988(98.89999999999866, 98.89999999999866).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+62)Broscuta a sarit de la id988(98.89999999999866, 98.89999999999866) la id999(100.0, 100.0).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+63)Broscuta a ajuns la mal in 62 sarituri.
+
+
+##########
+
+
+1)Broscuta se afla pe frunza initiala id0.
+Greutate broscuta: 8
+2)Broscuta a sarit de la id0(0.1, 0.1) la id18(1.9000000000000006, 1.9000000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+3)Broscuta a sarit de la id18(1.9000000000000006, 1.9000000000000006) la id36(3.700000000000002, 3.700000000000002).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+4)Broscuta a sarit de la id36(3.700000000000002, 3.700000000000002) la id54(5.4999999999999964, 5.4999999999999964).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+5)Broscuta a sarit de la id54(5.4999999999999964, 5.4999999999999964) la id72(7.29999999999999, 7.29999999999999).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+6)Broscuta a sarit de la id72(7.29999999999999, 7.29999999999999) la id90(9.099999999999984, 9.099999999999984).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+7)Broscuta a sarit de la id90(9.099999999999984, 9.099999999999984) la id108(10.899999999999977, 10.899999999999977).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+8)Broscuta a sarit de la id108(10.899999999999977, 10.899999999999977) la id126(12.69999999999997, 12.69999999999997).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+9)Broscuta a sarit de la id126(12.69999999999997, 12.69999999999997) la id144(14.499999999999964, 14.499999999999964).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+10)Broscuta a sarit de la id144(14.499999999999964, 14.499999999999964) la id162(16.29999999999996, 16.29999999999996).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+11)Broscuta a sarit de la id162(16.29999999999996, 16.29999999999996) la id180(18.099999999999987, 18.099999999999987).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+12)Broscuta a sarit de la id180(18.099999999999987, 18.099999999999987) la id198(19.900000000000013, 19.900000000000013).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+13)Broscuta a sarit de la id198(19.900000000000013, 19.900000000000013) la id216(21.70000000000004, 21.70000000000004).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+14)Broscuta a sarit de la id216(21.70000000000004, 21.70000000000004) la id234(23.500000000000064, 23.500000000000064).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+15)Broscuta a sarit de la id234(23.500000000000064, 23.500000000000064) la id252(25.30000000000009, 25.30000000000009).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+16)Broscuta a sarit de la id252(25.30000000000009, 25.30000000000009) la id270(27.100000000000115, 27.100000000000115).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+17)Broscuta a sarit de la id270(27.100000000000115, 27.100000000000115) la id288(28.90000000000014, 28.90000000000014).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+18)Broscuta a sarit de la id288(28.90000000000014, 28.90000000000014) la id306(30.700000000000166, 30.700000000000166).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+19)Broscuta a sarit de la id306(30.700000000000166, 30.700000000000166) la id324(32.50000000000019, 32.50000000000019).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+20)Broscuta a sarit de la id324(32.50000000000019, 32.50000000000019) la id342(34.30000000000022, 34.30000000000022).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+21)Broscuta a sarit de la id342(34.30000000000022, 34.30000000000022) la id360(36.10000000000024, 36.10000000000024).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+22)Broscuta a sarit de la id360(36.10000000000024, 36.10000000000024) la id378(37.90000000000027, 37.90000000000027).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+23)Broscuta a sarit de la id378(37.90000000000027, 37.90000000000027) la id396(39.700000000000294, 39.700000000000294).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+24)Broscuta a sarit de la id396(39.700000000000294, 39.700000000000294) la id414(41.50000000000032, 41.50000000000032).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+25)Broscuta a sarit de la id414(41.50000000000032, 41.50000000000032) la id432(43.300000000000345, 43.300000000000345).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+26)Broscuta a sarit de la id432(43.300000000000345, 43.300000000000345) la id450(45.10000000000037, 45.10000000000037).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+27)Broscuta a sarit de la id450(45.10000000000037, 45.10000000000037) la id468(46.9000000000004, 46.9000000000004).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+28)Broscuta a sarit de la id468(46.9000000000004, 46.9000000000004) la id486(48.70000000000042, 48.70000000000042).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+29)Broscuta a sarit de la id486(48.70000000000042, 48.70000000000042) la id504(50.50000000000045, 50.50000000000045).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+30)Broscuta a sarit de la id504(50.50000000000045, 50.50000000000045) la id522(52.30000000000047, 52.30000000000047).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+31)Broscuta a sarit de la id522(52.30000000000047, 52.30000000000047) la id540(54.1000000000005, 54.1000000000005).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+32)Broscuta a sarit de la id540(54.1000000000005, 54.1000000000005) la id558(55.900000000000524, 55.900000000000524).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+33)Broscuta a sarit de la id558(55.900000000000524, 55.900000000000524) la id576(57.70000000000055, 57.70000000000055).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+34)Broscuta a sarit de la id576(57.70000000000055, 57.70000000000055) la id594(59.500000000000576, 59.500000000000576).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+35)Broscuta a sarit de la id594(59.500000000000576, 59.500000000000576) la id612(61.3000000000006, 61.3000000000006).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+36)Broscuta a sarit de la id612(61.3000000000006, 61.3000000000006) la id630(63.10000000000063, 63.10000000000063).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+37)Broscuta a sarit de la id630(63.10000000000063, 63.10000000000063) la id648(64.90000000000059, 64.90000000000059).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+38)Broscuta a sarit de la id648(64.90000000000059, 64.90000000000059) la id666(66.70000000000049, 66.70000000000049).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+39)Broscuta a sarit de la id666(66.70000000000049, 66.70000000000049) la id684(68.50000000000038, 68.50000000000038).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+40)Broscuta a sarit de la id684(68.50000000000038, 68.50000000000038) la id702(70.30000000000028, 70.30000000000028).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+41)Broscuta a sarit de la id702(70.30000000000028, 70.30000000000028) la id720(72.10000000000018, 72.10000000000018).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+42)Broscuta a sarit de la id720(72.10000000000018, 72.10000000000018) la id738(73.90000000000008, 73.90000000000008).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+43)Broscuta a sarit de la id738(73.90000000000008, 73.90000000000008) la id756(75.69999999999997, 75.69999999999997).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+44)Broscuta a sarit de la id756(75.69999999999997, 75.69999999999997) la id774(77.49999999999987, 77.49999999999987).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+45)Broscuta a sarit de la id774(77.49999999999987, 77.49999999999987) la id792(79.29999999999977, 79.29999999999977).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+46)Broscuta a sarit de la id792(79.29999999999977, 79.29999999999977) la id810(81.09999999999967, 81.09999999999967).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+47)Broscuta a sarit de la id810(81.09999999999967, 81.09999999999967) la id828(82.89999999999957, 82.89999999999957).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+48)Broscuta a sarit de la id828(82.89999999999957, 82.89999999999957) la id846(84.69999999999946, 84.69999999999946).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+49)Broscuta a sarit de la id846(84.69999999999946, 84.69999999999946) la id864(86.49999999999936, 86.49999999999936).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+50)Broscuta a sarit de la id864(86.49999999999936, 86.49999999999936) la id882(88.29999999999926, 88.29999999999926).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+51)Broscuta a sarit de la id882(88.29999999999926, 88.29999999999926) la id900(90.09999999999916, 90.09999999999916).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+52)Broscuta a sarit de la id900(90.09999999999916, 90.09999999999916) la id918(91.89999999999905, 91.89999999999905).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+53)Broscuta a sarit de la id918(91.89999999999905, 91.89999999999905) la id936(93.69999999999895, 93.69999999999895).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+54)Broscuta a sarit de la id936(93.69999999999895, 93.69999999999895) la id954(95.49999999999885, 95.49999999999885).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+55)Broscuta a sarit de la id954(95.49999999999885, 95.49999999999885) la id972(97.29999999999875, 97.29999999999875).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+56)Broscuta a sarit de la id972(97.29999999999875, 97.29999999999875) la id990(99.09999999999864, 99.09999999999864).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+57)Broscuta a sarit de la id990(99.09999999999864, 99.09999999999864) la id999(100.0, 100.0).
+Broasca a mancat 1 insecte. Greutate broscuta: 8
+58)Broscuta a ajuns la mal in 57 sarituri.
+
+
+##########
+
+

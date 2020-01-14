@@ -1,0 +1,24 @@
+In functia de generare a succesorilor, am initializat intai o varabila care reprezinta greutatea inainte de saritura;
+aceasta va fi proprietatea 'greutateCurenta' a nodului. Daca proprietatea este null, inseamna ca ne aflam la inceput, deci
+greutatea inainte de saritura va fi greutatea initiala a broscutei.
+Daca din greutatea de dinainte de saritura scadem 1 si greutatea devine 0, inseamna ca broscuta moare, deci nu mai poate sari.
+In acest caz, returnam o lisa vida, pentru ca nodul nu mai are succesori.
+Iteram apoi cu un for prin vectorul de noduri.
+Daca nodul mai exista in drum, trecem la urmatorul nod din vector.
+Daca lungimea sariturii este mai mare decat greutatea broscutei pe 3, trecem din nou la urmatorul nod din vector.
+Greutatea de dupa saritura reprezinta greutatea de dinainte, din care scadem 1. Cat timp avem insecte pe frunza si greutatea broscutei nu
+depaseste greutatea maxima, broscuta va manca din insectele de pe frunza.
+Apoi, adaugam in lista de succesori nodul, care va avea schimbat numarul de insecte si costul (ca va fi costul anterior plus lungimea sariturii).
+In final, returnam lista de succesori.
+
+Ca euristica pentru algoritmul A Star am ales distanta euclidiana dintre frunze, deoarece broasca va sari de pe o frunza pe alta iar lungimea
+sariturii va fi data de aceasta distanta. In concluzie, distanta euclidiana este egala cu costul drumului.
+
+Analiza memoriei si a timpilor de executie pe fisierele care duc la o solutie:
+Memorie maxim folosita la UCS: 21094400. Timp: 4688
+Memorie maxim folosita la A star cu euristica banala: 21098496. Timp: 12
+Memorie maxim folosita la A star cu distanta euclidiana: 21135360. Timp: 13
+Memorie maxim folosita la A star cu distanta Manhattan: 21131264. Timp: 14
+
+Pe aceste fisiere care nu sunt foarte mari, diferenta la memorie nu este foarte vizibila, dar ce se poate observa mult mai bine
+este faptul ca algoritmul A Star este mult mai rapid.
